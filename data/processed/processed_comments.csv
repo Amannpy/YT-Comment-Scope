@@ -1,0 +1,950 @@
+serial number,comment,demojized_comment,cleaned_comment,lemmatized_tokens
+1,"🔥Professional Certificate Program in Data Engineering  - https://www.simplilearn.com/pgp-data-engineering-certification-training-course?utm_campaign=aReuLtY0YMI&utm_medium=Comments&utm_source=Youtube
+🔥IITK - Professional Certificate Course in Data Science (India Only) - https://www.simplilearn.com/iitk-professional-certificate-course-data-science?utm_campaign=aReuLtY0YMI&utm_medium=Comments&utm_source=Youtube
+🔥Caltech Post Graduate Program in Data Science  - https://www.simplilearn.com/post-graduate-program-data-science?utm_campaign=aReuLtY0YMI&utm_medium=Comments&utm_source=Youtube"," fire Professional Certificate Program in Data Engineering  - https://www.simplilearn.com/pgp-data-engineering-certification-training-course?utm_campaign=aReuLtY0YMI&utm_medium=Comments&utm_source=Youtube
+ fire IITK - Professional Certificate Course in Data Science (India Only) - https://www.simplilearn.com/iitk-professional-certificate-course-data-science?utm_campaign=aReuLtY0YMI&utm_medium=Comments&utm_source=Youtube
+ fire Caltech Post Graduate Program in Data Science  - https://www.simplilearn.com/post-graduate-program-data-science?utm_campaign=aReuLtY0YMI&utm_medium=Comments&utm_source=Youtube",fire professional certificate program in data engineering fire iitk professional certificate course in data science india only fire caltech post graduate program in data science,"['fire', 'professional', 'certificate', 'program', 'datum', 'engineering', 'fire', 'iitk', 'professional', 'certificate', 'course', 'datum', 'science', 'india', 'fire', 'caltech', 'post', 'graduate', 'program', 'datum', 'science']"
+2,"100 slides given by my university explained in 6 minutes! Amazing, and thank you so much!","100 slides given by my university explained in 6 minutes! Amazing, and thank you so much!",slides given by my university explained in minutes amazing and thank you so much,"['slide', 'give', 'university', 'explain', 'minute', 'amazing', 'thank', 'much']"
+3,"Well, I'm blown away. That was one of the most productive six minutes I spent on YoutTube <3 Thank you!","Well, I'm blown away. That was one of the most productive six minutes I spent on YoutTube <3 Thank you!",well im blown away that was one of the most productive six minutes i spent on youttube thank you,"['well', 'I', 'm', 'blow', 'away', 'one', 'productive', 'six', 'minute', 'spend', 'youttube', 'thank']"
+4,Thanks for the explanation understood about Hadoop. Answer is: Ensures fault tolerance. 5:31,Thanks for the explanation understood about Hadoop. Answer is: Ensures fault tolerance. 5:31,thanks for the explanation understood about hadoop answer is: ensures fault tolerance :,"['thank', 'explanation', 'understand', 'hadoop', 'answer', ':', 'ensure', 'fault', 'tolerance', ':']"
+5,Wow this is how things should be explained. Simultaneously with strong examples. Thank you for uploading this.,Wow this is how things should be explained. Simultaneously with strong examples. Thank you for uploading this.,wow this is how things should be explained simultaneously with strong examples thank you for uploading this,"['wow', 'thing', 'explain', 'simultaneously', 'strong', 'example', 'thank', 'upload']"
+6,"Yay, an explanation that can be understood in plain english with simple examples.
+It took my lecturer about 30 minutes to slog through half of this content and it barely made sense to me. This was great.","Yay, an explanation that can be understood in plain english with simple examples.
+It took my lecturer about 30 minutes to slog through half of this content and it barely made sense to me. This was great.",yay an explanation that can be understood in plain english with simple examples it took my lecturer about minutes to slog through half of this content and it barely made sense to me this was great,"['yay', 'explanation', 'understand', 'plain', 'english', 'simple', 'example', 'take', 'lecturer', 'minute', 'slog', 'half', 'content', 'barely', 'make', 'sense', 'great']"
+7,"thank you for not having ads in the beginning of this video, is all I have to say.","thank you for not having ads in the beginning of this video, is all I have to say.",thank you for not having ads in the beginning of this video is all i have to say,"['thank', 'ad', 'begin', 'video', 'say']"
+8,best video I have seen ! The answer to the question : The advantage of the 3x replication in HDFS is mainly that it ensures fault tolerance.,best video I have seen ! The answer to the question : The advantage of the 3x replication in HDFS is mainly that it ensures fault tolerance.,best video i have seen the answer to the question : the advantage of the x replication in hdfs is mainly that it ensures fault tolerance,"['good', 'video', 'see', 'answer', 'question', ':', 'advantage', 'x', 'replication', 'hdfs', 'mainly', 'ensure', 'fault', 'tolerance']"
+9,Nice video ! The answer to the question : The advantage of the 3x replication in HDFS is mainly that it ensures fault tolerance.,Nice video ! The answer to the question : The advantage of the 3x replication in HDFS is mainly that it ensures fault tolerance.,nice video the answer to the question : the advantage of the x replication in hdfs is mainly that it ensures fault tolerance,"['nice', 'video', 'answer', 'question', ':', 'advantage', 'x', 'replication', 'hdfs', 'mainly', 'ensure', 'fault', 'tolerance']"
+10,"Thank you SimpliLearn, 
+
+1. Straight to the point, 2. Visuals and precise explanation.","Thank you SimpliLearn, 
+
+1. Straight to the point, 2. Visuals and precise explanation.",thank you simplilearn straight to the point visuals and precise explanation,"['thank', 'simplilearn', 'straight', 'point', 'visual', 'precise', 'explanation']"
+11,"Amazing
+I missed this important lectures in my University
+I thought won't able to learn 
+But you did so well. Even my professor can't explain this way.
+Thank you so much","Amazing
+I missed this important lectures in my University
+I thought won't able to learn 
+But you did so well. Even my professor can't explain this way.
+Thank you so much",amazing i missed this important lectures in my university i thought wont able to learn but you did so well even my professor cant explain this way thank you so much,"['amazing', 'miss', 'important', 'lecture', 'university', 'think', 'will', 'not', 'able', 'learn', 'well', 'even', 'professor', 'can', 'not', 'explain', 'way', 'thank', 'much']"
+12,Two weeks of study at my university explained in 6 minutes. Thank you.,Two weeks of study at my university explained in 6 minutes. Thank you.,two weeks of study at my university explained in minutes thank you,"['two', 'week', 'study', 'university', 'explain', 'minute', 'thank']"
+13,This single 6min video explained more better than large videos & few course,This single 6min video explained more better than large videos & few course,this single min video explained more better than large videos few course,"['single', 'min', 'video', 'explain', 'well', 'large', 'video', 'course']"
+14,Amazing how easy and fast you guys could put together all the concepts and information about Hadoop. Congrats !!,Amazing how easy and fast you guys could put together all the concepts and information about Hadoop. Congrats !!,amazing how easy and fast you guys could put together all the concepts and information about hadoop congrats,"['amazing', 'easy', 'fast', 'guy', 'could', 'put', 'together', 'concept', 'information', 'hadoop', 'congrat']"
+15,This dude just explained what my teacher explained in 4 hours in 6 mins very nice video !,This dude just explained what my teacher explained in 4 hours in 6 mins very nice video !,this dude just explained what my teacher explained in hours in mins very nice video,"['dude', 'explain', 'teacher', 'explain', 'hour', 'min', 'nice', 'video']"
+16,"The answer is C, ensures fault tolerance! I love your videos, really helps me with my Data Science class right now.","The answer is C, ensures fault tolerance! I love your videos, really helps me with my Data Science class right now.",the answer is c ensures fault tolerance i love your videos really helps me with my data science class right now,"['answer', 'c', 'ensure', 'fault', 'tolerance', 'love', 'video', 'really', 'help', 'data', 'science', 'class', 'right']"
+17,You describe 2/3 hr of a lecture with in a 5 min. Same like your name SimpleLearn Your Teaching style is superb. Thanks brother❤,You describe 2/3 hr of a lecture with in a 5 min. Same like your name SimpleLearn Your Teaching style is superb. Thanks brother red_heart ,you describe hr of a lecture with in a min same like your name simplelearn your teaching style is superb thanks brother red_heart,"['describe', 'hr', 'lecture', 'min', 'like', 'name', 'simplelearn', 'teaching', 'style', 'superb', 'thanks', 'brother', 'red_heart']"
+18,"The advantage of the 3x replication schema in HDFS is Option C: to Ensure fault tolerance.
+Your Explanation was Awesome. and i have a question
+How we create data product using Hadoop??","The advantage of the 3x replication schema in HDFS is Option C: to Ensure fault tolerance.
+Your Explanation was Awesome. and i have a question
+How we create data product using Hadoop??",the advantage of the x replication schema in hdfs is option c: to ensure fault tolerance your explanation was awesome and i have a question how we create data product using hadoop,"['advantage', 'x', 'replication', 'schema', 'hdfs', 'option', 'c', ':', 'ensure', 'fault', 'tolerance', 'explanation', 'awesome', 'question', 'create', 'data', 'product', 'use', 'hadoop']"
+19,The answer is C. Thanks for best teaching!,The answer is C. Thanks for best teaching!,the answer is c thanks for best teaching,"['answer', 'c', 'thank', 'good', 'teaching']"
+20,"5 mins left for my exam, im watching this","5 mins left for my exam, im watching this",mins left for my exam im watching this,"['min', 'leave', 'exam', 'I', 'm', 'watch']"
+21,visual explanation was the best part. for a newbie like me I could grasp the concept much faster. The answer to the quiz is fault tolerance. thanks.,visual explanation was the best part. for a newbie like me I could grasp the concept much faster. The answer to the quiz is fault tolerance. thanks.,visual explanation was the best part for a newbie like me i could grasp the concept much faster the answer to the quiz is fault tolerance thanks,"['visual', 'explanation', 'good', 'part', 'newbie', 'like', 'could', 'grasp', 'concept', 'much', 'fast', 'answer', 'quiz', 'fault', 'tolerance', 'thank']"
+22,This was amazing.  It's just about the best high level description of HADOOP I've ever seen.,This was amazing.  It's just about the best high level description of HADOOP I've ever seen.,this was amazing its just about the best high level description of hadoop ive ever seen,"['amazing', 'good', 'high', 'level', 'description', 'hadoop', 'I', 've', 'ever', 'see']"
+23,all those multiple slides showed in our lectures yet your 6 mins video made me understand and write multiple concepts of hadoop architecture 🙏,all those multiple slides showed in our lectures yet your 6 mins video made me understand and write multiple concepts of hadoop architecture  folded_hands ,all those multiple slides showed in our lectures yet your mins video made me understand and write multiple concepts of hadoop architecture folded_hands,"['multiple', 'slide', 'show', 'lecture', 'yet', 'min', 'video', 'make', 'understand', 'write', 'multiple', 'concept', 'hadoop', 'architecture', 'folded_hand']"
+24,The answer to the question is : Ensure fault tolerance. Thank you for the video it was very informative,The answer to the question is : Ensure fault tolerance. Thank you for the video it was very informative,the answer to the question is : ensure fault tolerance thank you for the video it was very informative,"['answer', 'question', ':', 'ensure', 'fault', 'tolerance', 'thank', 'video', 'informative']"
+25,"Explanation in is very good in less time.i'm also work on hadoop but that kind of knowledge gain today .
+Summary:
+Hadoop contain 3 measure part:
+1) hdfs:hadoop distributed file system
+2) MapReduce: basically it is memory management 
+3)YARN : it provide management of all kind.
+
+Thank team","Explanation in is very good in less time.i'm also work on hadoop but that kind of knowledge gain today .
+Summary:
+Hadoop contain 3 measure part:
+1) hdfs:hadoop distributed file system
+2) MapReduce: basically it is memory management 
+3)YARN : it provide management of all kind.
+
+Thank team",explanation in is very good in less timeim also work on hadoop but that kind of knowledge gain today summary: hadoop contain measure part: hdfs:hadoop distributed file system mapreduce: basically it is memory management yarn : it provide management of all kind thank team,"['explanation', 'good', 'less', 'timeim', 'also', 'work', 'hadoop', 'kind', 'knowledge', 'gain', 'today', 'summary', ':', 'hadoop', 'contain', 'measure', 'part', ':', 'hdfs', ':', 'hadoop', 'distribute', 'file', 'system', 'mapreduce', ':', 'basically', 'memory', 'management', 'yarn', ':', 'provide', 'management', 'kind', 'thank', 'team']"
+26,"Option C - Ensures Fault Tolerance 
+
+
+This is very sweet to get the intro of the Hadoop in 5 mints.
+
+Thanks for help.👍","Option C - Ensures Fault Tolerance 
+
+
+This is very sweet to get the intro of the Hadoop in 5 mints.
+
+Thanks for help. thumbs_up ",option c ensures fault tolerance this is very sweet to get the intro of the hadoop in mints thanks for help thumbs_up,"['option', 'c', 'ensure', 'fault', 'tolerance', 'sweet', 'get', 'intro', 'hadoop', 'mint', 'thank', 'help', 'thumbs_up']"
+27,The Most Precise and Easy to understand video Ever!!!!!,The Most Precise and Easy to understand video Ever!!!!!,the most precise and easy to understand video ever,"['precise', 'easy', 'understand', 'video', 'ever']"
+28,"C) Ensures fault tolerance
+Thanks for such information
+Appreciable 👌","C) Ensures fault tolerance
+Thanks for such information
+Appreciable  OK_hand ",c ensures fault tolerance thanks for such information appreciable ok_hand,"['c', 'ensure', 'fault', 'tolerance', 'thank', 'information', 'appreciable', 'ok_hand']"
+29,"Short but very meaningful knowledge video. I am joining a class conducted by organization, before that I was looking for something really meaningful and Lord has brought me here. Thanks","Short but very meaningful knowledge video. I am joining a class conducted by organization, before that I was looking for something really meaningful and Lord has brought me here. Thanks",short but very meaningful knowledge video i am joining a class conducted by organization before that i was looking for something really meaningful and lord has brought me here thanks,"['short', 'meaningful', 'knowledge', 'video', 'join', 'class', 'conduct', 'organization', 'look', 'something', 'really', 'meaningful', 'lord', 'bring', 'thank']"
+30,Wow! No body will explain Hadoop so effectively and easily like you. Hats off to you time and effort. Cheers! btw answer would be D: fault tolerance,Wow! No body will explain Hadoop so effectively and easily like you. Hats off to you time and effort. Cheers! btw answer would be D: fault tolerance,wow no body will explain hadoop so effectively and easily like you hats off to you time and effort cheers btw answer would be d: fault tolerance,"['wow', 'body', 'explain', 'hadoop', 'effectively', 'easily', 'like', 'hat', 'time', 'effort', 'cheer', 'btw', 'answer', 'would', ':', 'fault', 'tolerance']"
+31,"Seriously, this is a wonderfully summarised version of any Hadoop video.  Well done summary. The answer is C","Seriously, this is a wonderfully summarised version of any Hadoop video.  Well done summary. The answer is C",seriously this is a wonderfully summarised version of any hadoop video well done summary the answer is c,"['seriously', 'wonderfully', 'summarise', 'version', 'hadoop', 'video', 'well', 'do', 'summary', 'answer', 'c']"
+32,The advantage of the 3x replication schema in HDFS is Option C: to Ensure fault tolerance.,The advantage of the 3x replication schema in HDFS is Option C: to Ensure fault tolerance.,the advantage of the x replication schema in hdfs is option c: to ensure fault tolerance,"['advantage', 'x', 'replication', 'schema', 'hdfs', 'option', 'c', ':', 'ensure', 'fault', 'tolerance']"
+33,"Mind blown explanation, even a kid can understand these concepts by watching this video","Mind blown explanation, even a kid can understand these concepts by watching this video",mind blown explanation even a kid can understand these concepts by watching this video,"['mind', 'blow', 'explanation', 'even', 'kid', 'understand', 'concept', 'watch', 'video']"
+34,"Option (C)-Ensures Fault Tolerance.
+
+
+And really thankss for the full  explanation on HADOOP👍.This type explanation was what i was looking for from long back..It was very perfect,clear & simpler to understand.😊👌","Option (C)-Ensures Fault Tolerance.
+
+
+And really thankss for the full  explanation on HADOOP thumbs_up .This type explanation was what i was looking for from long back..It was very perfect,clear & simpler to understand. smiling_face_with_smiling_eyes  OK_hand ",option censures fault tolerance and really thankss for the full explanation on hadoop thumbs_up this type explanation was what i was looking for from long backit was very perfectclear simpler to understand smiling_face_with_smiling_eyes ok_hand,"['option', 'censure', 'fault', 'tolerance', 'really', 'thankss', 'full', 'explanation', 'hadoop', 'thumbs_up', 'type', 'explanation', 'look', 'long', 'backit', 'perfectclear', 'simple', 'understand', 'smiling_face_with_smiling_eyes', 'ok_hand']"
+35,Got My All Doubts Cleared. Thanks for uploading the video :),Got My All Doubts Cleared. Thanks for uploading the video :),got my all doubts cleared thanks for uploading the video :,"['get', 'doubt', 'clear', 'thank', 'upload', 'video', ':']"
+36,"Answer: C) Ensures fault tolerance
+Great explanation!!.","Answer: C) Ensures fault tolerance
+Great explanation!!.",answer: c ensures fault tolerance great explanation,"['answer', ':', 'c', 'ensure', 'fault', 'tolerance', 'great', 'explanation']"
+37,I have been working on the Mapr environment but I didn’t got clarity on clusters until I watched this video.. Thanks Keep doing the tutorials on this Hadoop!,I have been working on the Mapr environment but I didn’t got clarity on clusters until I watched this video.. Thanks Keep doing the tutorials on this Hadoop!,i have been working on the mapr environment but i didnt got clarity on clusters until i watched this video thanks keep doing the tutorials on this hadoop,"['work', 'mapr', 'environment', 'do', 'not', 'get', 'clarity', 'cluster', 'watch', 'video', 'thank', 'keep', 'tutorial', 'hadoop']"
+38,Just saved me a lot of stress going through all the slides from the academy. Amazing! tnxx,Just saved me a lot of stress going through all the slides from the academy. Amazing! tnxx,just saved me a lot of stress going through all the slides from the academy amazing tnxx,"['save', 'lot', 'stress', 'go', 'slide', 'academy', 'amazing', 'tnxx']"
+39,"Answer is at least a, b, c and could include d, depending on how you define manage. Yes 3x replication ensures fault tolerance but it also allows parallel execution of jobs to be placed on the same node where a block of data resides. The locality benefit can provide faster data analysis and efficient cluster management depending on the workloads.","Answer is at least a, b, c and could include d, depending on how you define manage. Yes 3x replication ensures fault tolerance but it also allows parallel execution of jobs to be placed on the same node where a block of data resides. The locality benefit can provide faster data analysis and efficient cluster management depending on the workloads.",answer is at least a b c and could include d depending on how you define manage yes x replication ensures fault tolerance but it also allows parallel execution of jobs to be placed on the same node where a block of data resides the locality benefit can provide faster data analysis and efficient cluster management depending on the workloads,"['answer', 'least', 'b', 'c', 'could', 'include', 'depend', 'define', 'manage', 'yes', 'x', 'replication', 'ensure', 'fault', 'tolerance', 'also', 'allow', 'parallel', 'execution', 'job', 'place', 'node', 'block', 'datum', 'reside', 'locality', 'benefit', 'provide', 'fast', 'datum', 'analysis', 'efficient', 'cluster', 'management', 'depend', 'workload']"
+40,Thank you so much we want this kind of teachers,Thank you so much we want this kind of teachers,thank you so much we want this kind of teachers,"['thank', 'much', 'want', 'kind', 'teacher']"
+41,I believe the answer is C. The 3x replication schema is used to counter when one of the physical storage is in fault/problem. It is act as backup,I believe the answer is C. The 3x replication schema is used to counter when one of the physical storage is in fault/problem. It is act as backup,i believe the answer is c the x replication schema is used to counter when one of the physical storage is in faultproblem it is act as backup,"['believe', 'answer', 'c', 'x', 'replication', 'schema', 'use', 'counter', 'one', 'physical', 'storage', 'faultproblem', 'act', 'backup']"
+42,You are a god for beginners. Now I am subscribing your channel,You are a god for beginners. Now I am subscribing your channel,you are a god for beginners now i am subscribing your channel,"['god', 'beginner', 'subscribe', 'channel']"
+43,College lecture slides are far >>>>>>> better tahn ur video lecture thanks a lot it helped in my todays exam,College lecture slides are far >>>>>>> better tahn ur video lecture thanks a lot it helped in my todays exam,college lecture slides are far better tahn ur video lecture thanks a lot it helped in my todays exam,"['college', 'lecture', 'slide', 'far', 'well', 'tahn', 'ur', 'video', 'lecture', 'thank', 'lot', 'help', 'today', 'exam']"
+44,"Awesome video. It would be great to see the technical example shown in this video.
+Btw, the answer is to ensure fault tolerance.","Awesome video. It would be great to see the technical example shown in this video.
+Btw, the answer is to ensure fault tolerance.",awesome video it would be great to see the technical example shown in this video btw the answer is to ensure fault tolerance,"['awesome', 'video', 'would', 'great', 'see', 'technical', 'example', 'show', 'video', 'btw', 'answer', 'ensure', 'fault', 'tolerance']"
+45,"This is absolute perfection. I recently read a similar book, and it was absolute perfection. ""Mastering AWS: A Software Engineers Guide"" by Nathan Vale","This is absolute perfection. I recently read a similar book, and it was absolute perfection. ""Mastering AWS: A Software Engineers Guide"" by Nathan Vale",this is absolute perfection i recently read a similar book and it was absolute perfection mastering aws: a software engineers guide by nathan vale,"['absolute', 'perfection', 'recently', 'read', 'similar', 'book', 'absolute', 'perfection', 'master', 'aw', ':', 'software', 'engineer', 'guide', 'nathan', 'vale']"
+46,c)Ensures fault tolerance.   :-)   Great tutovid !,c)Ensures fault tolerance.   :-)   Great tutovid !,censures fault tolerance : great tutovid,"['censure', 'fault', 'tolerance', ':', 'great', 'tutovid']"
+47,WOW!!! thank you sooo muchhhh!!! this was so good and precise. I honestly did not understand anything from uni until I watched this.,WOW!!! thank you sooo muchhhh!!! this was so good and precise. I honestly did not understand anything from uni until I watched this.,wow thank you sooo muchhhh this was so good and precise i honestly did not understand anything from uni until i watched this,"['wow', 'thank', 'sooo', 'muchhhh', 'good', 'precise', 'honestly', 'understand', 'anything', 'uni', 'watch']"
+48,"Big Data is not unstructured data as you might have suggested in the beginning. Big Data is around big data sets that are otherwise too large to deal with. Big Data might be generated by a particle accelerator, for example, it will be structured data but will be considered as 'Big Data'. By the way, this term is not commonly used by Data professionals. It's mostly used by managers and marketing people.","Big Data is not unstructured data as you might have suggested in the beginning. Big Data is around big data sets that are otherwise too large to deal with. Big Data might be generated by a particle accelerator, for example, it will be structured data but will be considered as 'Big Data'. By the way, this term is not commonly used by Data professionals. It's mostly used by managers and marketing people.",big data is not unstructured data as you might have suggested in the beginning big data is around big data sets that are otherwise too large to deal with big data might be generated by a particle accelerator for example it will be structured data but will be considered as big data by the way this term is not commonly used by data professionals its mostly used by managers and marketing people,"['big', 'datum', 'unstructured', 'datum', 'might', 'suggest', 'begin', 'big', 'datum', 'around', 'big', 'data', 'set', 'otherwise', 'large', 'deal', 'big', 'datum', 'might', 'generate', 'particle', 'accelerator', 'example', 'structure', 'datum', 'consider', 'big', 'datum', 'way', 'term', 'commonly', 'use', 'data', 'professional', 'mostly', 'use', 'manager', 'market', 'people']"
+49,3x replication helps with fault tolerance.. may be 3 years late for a gift voucher..😇 but wanted a refresher and this video was great on hadoop,3x replication helps with fault tolerance.. may be 3 years late for a gift voucher.. smiling_face_with_halo  but wanted a refresher and this video was great on hadoop,x replication helps with fault tolerance may be years late for a gift voucher smiling_face_with_halo but wanted a refresher and this video was great on hadoop,"['x', 'replication', 'help', 'fault', 'tolerance', 'may', 'year', 'late', 'gift', 'voucher', 'smiling_face_with_halo', 'want', 'refresher', 'video', 'great', 'hadoop']"
+50,"All a, b, c and d are right answers","All a, b, c and d are right answers",all a b c and d are right answers,"['b', 'c', 'right', 'answer']"
+51,"Best best best 😭❤
+Thank you so much for this ❤❤❤","Best best best  loudly_crying_face  red_heart 
+Thank you so much for this  red_heart  red_heart  red_heart ",best best best loudly_crying_face red_heart thank you so much for this red_heart red_heart red_heart,"['well', 'well', 'good', 'loudly_crying_face', 'red_heart', 'thank', 'much', 'red_heart', 'red_heart', 'red_heart']"
+52,C: to Ensure fault tolerance :),C: to Ensure fault tolerance :),c: to ensure fault tolerance :,"['c', ':', 'ensure', 'fault', 'tolerance', ':']"
+53,"Thanks for giving lot of information in 6:20 min. Videos, Great job 💯","Thanks for giving lot of information in 6:20 min. Videos, Great job  hundred_points ",thanks for giving lot of information in : min videos great job hundred_points,"['thank', 'give', 'lot', 'information', ':', 'min', 'video', 'great', 'job', 'hundred_point']"
+54,C:- Ensure fault tolerance,C:- Ensure fault tolerance,c: ensure fault tolerance,"['c', ':', 'ensure', 'fault', 'tolerance']"
+55,You deserve a thumbs up.,You deserve a thumbs up.,you deserve a thumbs up,"['deserve', 'thumb']"
+56,"Thanks for the explanation! That's what I was looking for! :) Of course, the answer is C - ensure fault tolerance.","Thanks for the explanation! That's what I was looking for! :) Of course, the answer is C - ensure fault tolerance.",thanks for the explanation thats what i was looking for : of course the answer is c ensure fault tolerance,"['thank', 'explanation', 'that', 's', 'look', ':', 'course', 'answer', 'c', 'ensure', 'fault', 'tolerance']"
+57,Brilliantly Explained,Brilliantly Explained,brilliantly explained,"['brilliantly', 'explain']"
+58,"This is such a useful video, thank you!!","This is such a useful video, thank you!!",this is such a useful video thank you,"['useful', 'video', 'thank']"
+59,thumps up is just a small appriciation need  deserve more than that brilliant explanation,thumps up is just a small appriciation need  deserve more than that brilliant explanation,thumps up is just a small appriciation need deserve more than that brilliant explanation,"['thumps', 'small', 'appriciation', 'need', 'deserve', 'brilliant', 'explanation']"
+60,Good explanation. Seems like a lot of work to create useless word-frequency maps of nonsense emails though.,Good explanation. Seems like a lot of work to create useless word-frequency maps of nonsense emails though.,good explanation seems like a lot of work to create useless wordfrequency maps of nonsense emails though,"['good', 'explanation', 'seem', 'like', 'lot', 'work', 'create', 'useless', 'wordfrequency', 'map', 'nonsense', 'email', 'though']"
+61,Clearest explanation of Hadoop that I have come across.,Clearest explanation of Hadoop that I have come across.,clearest explanation of hadoop that i have come across,"['clear', 'explanation', 'hadoop', 'come', 'across']"
+62,How can i like it two times?,How can i like it two times?,how can i like it two times,"['like', 'two', 'time']"
+63,"Sir, Thanks a lot for This Amazing Lecture 🙂","Sir, Thanks a lot for This Amazing Lecture  slightly_smiling_face ",sir thanks a lot for this amazing lecture slightly_smiling_face,"['sir', 'thank', 'lot', 'amazing', 'lecture', 'slightly_smiling_face']"
+64,"Yeah ok, so it's RAID but with a different name and a bit more options.","Yeah ok, so it's RAID but with a different name and a bit more options.",yeah ok so its raid but with a different name and a bit more options,"['yeah', 'ok', 'raid', 'different', 'name', 'bit', 'option']"
+65,"Good video. Clear and concise.
+Answer to quiz - C (Ensures fault tolerance)","Good video. Clear and concise.
+Answer to quiz - C (Ensures fault tolerance)",good video clear and concise answer to quiz c ensures fault tolerance,"['good', 'video', 'clear', 'concise', 'answer', 'quiz', 'c', 'ensure', 'fault', 'tolerance']"
+66,"c) Ensures Fault Tolerance
+
+Thank you so much for the video - Love it!","c) Ensures Fault Tolerance
+
+Thank you so much for the video - Love it!",c ensures fault tolerance thank you so much for the video love it,"['c', 'ensure', 'fault', 'tolerance', 'thank', 'much', 'video', 'love']"
+67,That was the easiest way to learn and understand Hadoop thank you!,That was the easiest way to learn and understand Hadoop thank you!,that was the easiest way to learn and understand hadoop thank you,"['easy', 'way', 'learn', 'understand', 'hadoop', 'thank']"
+68,"Ensures fault tolerance.
+
+Great video, thank you so much!","Ensures fault tolerance.
+
+Great video, thank you so much!",ensures fault tolerance great video thank you so much,"['ensure', 'fault', 'tolerance', 'great', 'video', 'thank', 'much']"
+69,"Thank you, that's the best explanation I've ever heard.","Thank you, that's the best explanation I've ever heard.",thank you thats the best explanation ive ever heard,"['thank', 'that', 's', 'good', 'explanation', 'I', 've', 'ever', 'hear']"
+70,Excellent explanation in 6 mins. Thank you!,Excellent explanation in 6 mins. Thank you!,excellent explanation in mins thank you,"['excellent', 'explanation', 'min', 'thank']"
+71,The answer would be (C) Ensures Fault Tolerance! Thanks again. Wonderful presentation,The answer would be (C) Ensures Fault Tolerance! Thanks again. Wonderful presentation,the answer would be c ensures fault tolerance thanks again wonderful presentation,"['answer', 'would', 'c', 'ensure', 'fault', 'tolerance', 'thank', 'wonderful', 'presentation']"
+72,hadoop is an amazing way to manage and process big data.,hadoop is an amazing way to manage and process big data.,hadoop is an amazing way to manage and process big data,"['hadoop', 'amazing', 'way', 'manage', 'process', 'big', 'datum']"
+73,Best Scientific content creator award goes to simplilearn.,Best Scientific content creator award goes to simplilearn.,best scientific content creator award goes to simplilearn,"['good', 'scientific', 'content', 'creator', 'award', 'go', 'simplilearn']"
+74,"thanks for the crystal clear explanation on what hadoop is , coming to the answer of question is c) ensure fault tolerance","thanks for the crystal clear explanation on what hadoop is , coming to the answer of question is c) ensure fault tolerance",thanks for the crystal clear explanation on what hadoop is coming to the answer of question is c ensure fault tolerance,"['thank', 'crystal', 'clear', 'explanation', 'hadoop', 'come', 'answer', 'question', 'c', 'ensure', 'fault', 'tolerance']"
+75,This video clarifies the Hadoop concept very well.,This video clarifies the Hadoop concept very well.,this video clarifies the hadoop concept very well,"['video', 'clarifie', 'hadoop', 'concept', 'well']"
+76,I never knew Hadoop is a storage unit. Thanking you Genius,I never knew Hadoop is a storage unit. Thanking you Genius,i never knew hadoop is a storage unit thanking you genius,"['never', 'know', 'hadoop', 'storage', 'unit', 'thank', 'genius']"
+77,"Great video
+Answer is 
+Option 3: To ensure faltu tolerant","Great video
+Answer is 
+Option 3: To ensure faltu tolerant",great video answer is option : to ensure faltu tolerant,"['great', 'video', 'answer', 'option', ':', 'ensure', 'faltu', 'tolerant']"
+78,A clear cut video to understand Hadoop components. Thanks a lot.,A clear cut video to understand Hadoop components. Thanks a lot.,a clear cut video to understand hadoop components thanks a lot,"['clear', 'cut', 'video', 'understand', 'hadoop', 'component', 'thank', 'lot']"
+79,"wow, this is first time learning about Big Data and how Hadoop works. thank you so much for the explanation. quite excited to give it a try. 
+the answer is C: Ensure Fault tolerance. like High Availability in Cloud services terms.","wow, this is first time learning about Big Data and how Hadoop works. thank you so much for the explanation. quite excited to give it a try. 
+the answer is C: Ensure Fault tolerance. like High Availability in Cloud services terms.",wow this is first time learning about big data and how hadoop works thank you so much for the explanation quite excited to give it a try the answer is c: ensure fault tolerance like high availability in cloud services terms,"['wow', 'first', 'time', 'learn', 'big', 'datum', 'hadoop', 'work', 'thank', 'much', 'explanation', 'quite', 'excited', 'give', 'try', 'answer', 'c', ':', 'ensure', 'fault', 'tolerance', 'like', 'high', 'availability', 'cloud', 'service', 'term']"
+80,"My Answer to Quiz is C. select C because it can split lots of multiple blocks to compute. and they can copy all data from other blocks, so whichever one or more are broken, the data is not lost.","My Answer to Quiz is C. select C because it can split lots of multiple blocks to compute. and they can copy all data from other blocks, so whichever one or more are broken, the data is not lost.",my answer to quiz is c select c because it can split lots of multiple blocks to compute and they can copy all data from other blocks so whichever one or more are broken the data is not lost,"['answer', 'quiz', 'c', 'select', 'c', 'split', 'lot', 'multiple', 'block', 'compute', 'copy', 'datum', 'block', 'whichever', 'one', 'broken', 'datum', 'lose']"
+81,Amazing Video!! Really Helpful :D,Amazing Video!! Really Helpful :D,amazing video really helpful :d,"['amazing', 'video', 'really', 'helpful', ':']"
+82,"Answer: C! Great quick intro my first time learning, I've kept hearing about Map Reduce and this really made sense!","Answer: C! Great quick intro my first time learning, I've kept hearing about Map Reduce and this really made sense!",answer: c great quick intro my first time learning ive kept hearing about map reduce and this really made sense,"['answer', ':', 'c', 'great', 'quick', 'intro', 'first', 'time', 'learn', 'I', 've', 'keep', 'hear', 'map', 'reduce', 'really', 'make', 'sense']"
+83,"Amazing video. Brilliant explanation. The answer is option C , 3x replication ensures fault tolerance","Amazing video. Brilliant explanation. The answer is option C , 3x replication ensures fault tolerance",amazing video brilliant explanation the answer is option c x replication ensures fault tolerance,"['amazing', 'video', 'brilliant', 'explanation', 'answer', 'option', 'c', 'x', 'replication', 'ensure', 'fault', 'tolerance']"
+84,This is too amazing. Very helpful. Explained better than anyone. l love it.,This is too amazing. Very helpful. Explained better than anyone. l love it.,this is too amazing very helpful explained better than anyone l love it,"['amazing', 'helpful', 'explain', 'well', 'anyone', 'l', 'love']"
+85,This is superb video I really understood the concept of Hadoop I appreciate the effort of simplicity.,This is superb video I really understood the concept of Hadoop I appreciate the effort of simplicity.,this is superb video i really understood the concept of hadoop i appreciate the effort of simplicity,"['superb', 'video', 'really', 'understand', 'concept', 'hadoop', 'appreciate', 'effort', 'simplicity']"
+86,"Just WOW!! 
+Thank you!","Just WOW!! 
+Thank you!",just wow thank you,"['wow', 'thank']"
+87,The answer is C. Great video! Thanks!,The answer is C. Great video! Thanks!,the answer is c great video thanks,"['answer', 'c', 'great', 'video', 'thank']"
+88,GREAT SUMMARY!!!!! This is the kind of stuff I was looking for!!! +1 sub!,GREAT SUMMARY!!!!! This is the kind of stuff I was looking for!!! +1 sub!,great summary this is the kind of stuff i was looking for sub,"['great', 'summary', 'kind', 'stuff', 'look', 'sub']"
+89,You Guys doing a great Job....excellent explanation.....,You Guys doing a great Job....excellent explanation.....,you guys doing a great jobexcellent explanation,"['guy', 'great', 'jobexcellent', 'explanation']"
+90,Easy to learn Your teching skills .... Thanks for your Video.,Easy to learn Your teching skills .... Thanks for your Video.,easy to learn your teching skills thanks for your video,"['easy', 'learn', 'teche', 'skill', 'thank', 'video']"
+91,"please create more videos, love this!","please create more videos, love this!",please create more videos love this,"['please', 'create', 'video', 'love']"
+92,"C)Ensure fault tolerance. 
+As replication is used if any of nodes crashes then the data of that node is stored on various other system so no data is lost.","C)Ensure fault tolerance. 
+As replication is used if any of nodes crashes then the data of that node is stored on various other system so no data is lost.",censure fault tolerance as replication is used if any of nodes crashes then the data of that node is stored on various other system so no data is lost,"['censure', 'fault', 'tolerance', 'replication', 'use', 'node', 'crash', 'data', 'node', 'store', 'various', 'system', 'datum', 'lose']"
+93,Excellent explanation in such a short clip,Excellent explanation in such a short clip,excellent explanation in such a short clip,"['excellent', 'explanation', 'short', 'clip']"
+94,"Thanks a lot , u are better than my professor","Thanks a lot , u are better than my professor",thanks a lot u are better than my professor,"['thank', 'lot', 'u', 'well', 'professor']"
+95,Excellent introduction!!!,Excellent introduction!!!,excellent introduction,"['excellent', 'introduction']"
+96,"10/10, I say this as a person working with a hadoop cluster of more than 200 nodes","10/10, I say this as a person working with a hadoop cluster of more than 200 nodes",i say this as a person working with a hadoop cluster of more than nodes,"['say', 'person', 'work', 'hadoop', 'cluster', 'node']"
+97,There was a lot of information in this video and it was very well presented. 3x replication schema ensures fault tolerance,There was a lot of information in this video and it was very well presented. 3x replication schema ensures fault tolerance,there was a lot of information in this video and it was very well presented x replication schema ensures fault tolerance,"['lot', 'information', 'video', 'well', 'present', 'x', 'replication', 'schema', 'ensure', 'fault', 'tolerance']"
+98,Nice content in 06 minutes. Well explained. Thank you!!,Nice content in 06 minutes. Well explained. Thank you!!,nice content in minutes well explained thank you,"['nice', 'content', 'minute', 'well', 'explain', 'thank']"
+99,It is one of the most valuable explanation. Just Amazing.,It is one of the most valuable explanation. Just Amazing.,it is one of the most valuable explanation just amazing,"['one', 'valuable', 'explanation', 'amazing']"
+100,"amazing content, you guys are the best!!!!!","amazing content, you guys are the best!!!!!",amazing content you guys are the best,"['amazing', 'content', 'guy', 'well']"
+101,Thank you. Well explained.,Thank you. Well explained.,thank you well explained,"['thank', 'well', 'explain']"
+102,Productive 6 Mins 🙌,Productive 6 Mins  raising_hands ,productive mins raising_hands,"['productive', 'min', 'raising_hand']"
+103,Brilliant work! Thank you.,Brilliant work! Thank you.,brilliant work thank you,"['brilliant', 'work', 'thank']"
+104,"Awesome videoooo...! 
+Ans: C. Fault tolerance","Awesome videoooo...! 
+Ans: C. Fault tolerance",awesome videoooo ans: c fault tolerance,"['awesome', 'videoooo', 'ans', ':', 'c', 'fault', 'tolerance']"
+105,Thanks u so much for such a simple and amazing video to understand the concept.👏👏👏👏👏,Thanks u so much for such a simple and amazing video to understand the concept. clapping_hands  clapping_hands  clapping_hands  clapping_hands  clapping_hands ,thanks u so much for such a simple and amazing video to understand the concept clapping_hands clapping_hands clapping_hands clapping_hands clapping_hands,"['thank', 'u', 'much', 'simple', 'amazing', 'video', 'understand', 'concept', 'clapping_hand', 'clapping_hands', 'clapping_hand', 'clapping_hand', 'clapping_hand']"
+106,so easy explained ty guys,so easy explained ty guys,so easy explained ty guys,"['easy', 'explain', 'ty', 'guy']"
+107,"Great video, is a good resume of this technology, and the answer is C) Ensure fault tolerance","Great video, is a good resume of this technology, and the answer is C) Ensure fault tolerance",great video is a good resume of this technology and the answer is c ensure fault tolerance,"['great', 'video', 'good', 'resume', 'technology', 'answer', 'c', 'ensure', 'fault', 'tolerance']"
+108,Awesome explanation...thank you !!,Awesome explanation...thank you !!,awesome explanationthank you,"['awesome', 'explanationthank']"
+109,Thanks For making this amazing and helpful video.!🙂,Thanks For making this amazing and helpful video.! slightly_smiling_face ,thanks for making this amazing and helpful video slightly_smiling_face,"['thank', 'make', 'amazing', 'helpful', 'video', 'slightly_smiling_face']"
+110,Nice explanation. Thank You,Nice explanation. Thank You,nice explanation thank you,"['nice', 'explanation', 'thank']"
+111,"thanks a lot for the explanation, through this video i just understand what the big data is and hadoop is! It's so amazing.","thanks a lot for the explanation, through this video i just understand what the big data is and hadoop is! It's so amazing.",thanks a lot for the explanation through this video i just understand what the big data is and hadoop is its so amazing,"['thank', 'lot', 'explanation', 'video', 'understand', 'big', 'data', 'hadoop', 'amazing']"
+112,Excellent! Thank you so much.,Excellent! Thank you so much.,excellent thank you so much,"['excellent', 'thank', 'much']"
+113,nice presentation easy to understand,nice presentation easy to understand,nice presentation easy to understand,"['nice', 'presentation', 'easy', 'understand']"
+114,amazing explanation of the Hadoop concepts.,amazing explanation of the Hadoop concepts.,amazing explanation of the hadoop concepts,"['amazing', 'explanation', 'hadoop', 'concept']"
+115,C:) Fault tolerance is the answer.  Thank you tons for the very awesome and informative video on Hadoop!,C:) Fault tolerance is the answer.  Thank you tons for the very awesome and informative video on Hadoop!,c: fault tolerance is the answer thank you tons for the very awesome and informative video on hadoop,"['c', ':', 'fault', 'tolerance', 'answer', 'thank', 'ton', 'awesome', 'informative', 'video', 'hadoop']"
+116,Answer is C! Data is available on other nodes even if other nodes are down or crashed,Answer is C! Data is available on other nodes even if other nodes are down or crashed,answer is c data is available on other nodes even if other nodes are down or crashed,"['answer', 'c', 'datum', 'available', 'node', 'even', 'node', 'crash']"
+117,The answer is option C and very good explanation sir thank you,The answer is option C and very good explanation sir thank you,the answer is option c and very good explanation sir thank you,"['answer', 'option', 'c', 'good', 'explanation', 'sir', 'thank']"
+118,"Very well explained video 💯
+Answer of Advantage of 3x replication Schema in HDFS is Option C that is ensure Fault Tolerance.","Very well explained video  hundred_points 
+Answer of Advantage of 3x replication Schema in HDFS is Option C that is ensure Fault Tolerance.",very well explained video hundred_points answer of advantage of x replication schema in hdfs is option c that is ensure fault tolerance,"['well', 'explain', 'video', 'hundred_point', 'answer', 'advantage', 'x', 'replication', 'schema', 'hdfs', 'option', 'c', 'ensure', 'fault', 'tolerance']"
+119,"thanks for the informative video. in a short video, it explains most of the hadoop components.","thanks for the informative video. in a short video, it explains most of the hadoop components.",thanks for the informative video in a short video it explains most of the hadoop components,"['thank', 'informative', 'video', 'short', 'video', 'explain', 'hadoop', 'component']"
+120,Thank you so much 🥰,Thank you so much  smiling_face_with_hearts ,thank you so much smiling_face_with_hearts,"['thank', 'much', 'smiling_face_with_heart']"
+121,"Crisp and short video....upto the point🔥
+Answer is (C). Ensures fault tolerance","Crisp and short video....upto the point fire 
+Answer is (C). Ensures fault tolerance",crisp and short videoupto the point fire answer is c ensures fault tolerance,"['crisp', 'short', 'videoupto', 'point', 'fire', 'answer', 'c', 'ensure', 'fault', 'tolerance']"
+122,The advantage of the 3x replication schema in HDFS ---> Option C - Ensure fault tolerance.,The advantage of the 3x replication schema in HDFS ---> Option C - Ensure fault tolerance.,the advantage of the x replication schema in hdfs option c ensure fault tolerance,"['advantage', 'x', 'replication', 'schema', 'hdfs', 'option', 'c', 'ensure', 'fault', 'tolerance']"
+123,"THE ANSWER IS C. HDFS IS FAULT-TOLERANCE, IF THE DATANODES CRASHES BECUASE ITS REPLICATICATED IN 3 REPLICATION SCHEMA IN HDFS. No data will be loss, great video.","THE ANSWER IS C. HDFS IS FAULT-TOLERANCE, IF THE DATANODES CRASHES BECUASE ITS REPLICATICATED IN 3 REPLICATION SCHEMA IN HDFS. No data will be loss, great video.",the answer is c hdfs is faulttolerance if the datanodes crashes becuase its replicaticated in replication schema in hdfs no data will be loss great video,"['answer', 'c', 'hdfs', 'faulttolerance', 'datanode', 'crash', 'becuase', 'replicaticate', 'replication', 'schema', 'hdfs', 'datum', 'loss', 'great', 'video']"
+124,Totally clear!,Totally clear!,totally clear,"['totally', 'clear']"
+125,Thanks for excellent content,Thanks for excellent content,thanks for excellent content,"['thank', 'excellent', 'content']"
+126,"Big thank to you.
+Amazing video","Big thank to you.
+Amazing video",big thank to you amazing video,"['big', 'thank', 'amazing', 'video']"
+127,Excellent Videos! Thank you,Excellent Videos! Thank you,excellent videos thank you,"['excellent', 'video', 'thank']"
+128,thank you well presented,thank you well presented,thank you well presented,"['thank', 'well', 'present']"
+129,c) ensure fault tolerences  thanks for explaination,c) ensure fault tolerences  thanks for explaination,c ensure fault tolerences thanks for explaination,"['c', 'ensure', 'fault', 'tolerence', 'thank', 'explaination']"
+130,For last quizI think C is the correct answer. 3X replica is for fault tolerance purpose.,For last quizI think C is the correct answer. 3X replica is for fault tolerance purpose.,for last quizi think c is the correct answer x replica is for fault tolerance purpose,"['last', 'quizi', 'think', 'c', 'correct', 'answer', 'x', 'replica', 'fault', 'tolerance', 'purpose']"
+131,Thanks  a lot for this wonderful video...!!!!!,Thanks  a lot for this wonderful video...!!!!!,thanks a lot for this wonderful video,"['thank', 'lot', 'wonderful', 'video']"
+132,The best video to explain hadoop in 5 min.,The best video to explain hadoop in 5 min.,the best video to explain hadoop in min,"['good', 'video', 'explain', 'hadoop', 'min']"
+133,Amazing video. The advantage of the 3x replication schema in HDFS is fault torance.,Amazing video. The advantage of the 3x replication schema in HDFS is fault torance.,amazing video the advantage of the x replication schema in hdfs is fault torance,"['amazing', 'video', 'advantage', 'x', 'replication', 'schema', 'hdfs', 'fault', 'torance']"
+134,great video!! the answer is c. I know the comment is too late but just commenting,great video!! the answer is c. I know the comment is too late but just commenting,great video the answer is c i know the comment is too late but just commenting,"['great', 'video', 'answer', 'c', 'know', 'comment', 'late', 'comment']"
+135,"Thanks for making this really easy to understand. Keep making such videos !!!
+Answer: (c) Ensures fault tolerance.","Thanks for making this really easy to understand. Keep making such videos !!!
+Answer: (c) Ensures fault tolerance.",thanks for making this really easy to understand keep making such videos answer: c ensures fault tolerance,"['thank', 'make', 'really', 'easy', 'understand', 'keep', 'make', 'video', 'answer', ':', 'c', 'ensure', 'fault', 'tolerance']"
+136,super explaination 👍👍🌟,super explaination  thumbs_up  thumbs_up  glowing_star ,super explaination thumbs_up thumbs_up glowing_star,"['super', 'explaination', 'thumbs_up', 'thumbs_up', 'glowing_star']"
+137,Thank you for this,Thank you for this,thank you for this,['thank']
+138,I understand now. Hadoop is bigger than dBase III+. nice and simple video. have a nice day.,I understand now. Hadoop is bigger than dBase III+. nice and simple video. have a nice day.,i understand now hadoop is bigger than dbase iii nice and simple video have a nice day,"['understand', 'hadoop', 'big', 'dbase', 'iii', 'nice', 'simple', 'video', 'nice', 'day']"
+139,Great explanation,Great explanation,great explanation,"['great', 'explanation']"
+140,"Hi,
+Thanks for the video. 
+The answer is C","Hi,
+Thanks for the video. 
+The answer is C",hi thanks for the video the answer is c,"['hi', 'thank', 'video', 'answer', 'c']"
+141,This is great. Thank you.,This is great. Thank you.,this is great thank you,"['great', 'thank']"
+142,Bhai kya batau kya samjhaya hai. Chummi ekdum <3,Bhai kya batau kya samjhaya hai. Chummi ekdum <3,bhai kya batau kya samjhaya hai chummi ekdum,"['bhai', 'kya', 'batau', 'kya', 'samjhaya', 'hai', 'chummi', 'ekdum']"
+143,"The answer is C, which ensures fault tolerance! really help me in my course Advanace Database management Science  topic Big data,hadoop version1 and version 2","The answer is C, which ensures fault tolerance! really help me in my course Advanace Database management Science  topic Big data,hadoop version1 and version 2",the answer is c which ensures fault tolerance really help me in my course advanace database management science topic big datahadoop version and version,"['answer', 'c', 'ensure', 'fault', 'tolerance', 'really', 'help', 'course', 'advanace', 'database', 'management', 'science', 'topic', 'big', 'datahadoop', 'version', 'version']"
+144,Very good explanation...,Very good explanation...,very good explanation,"['good', 'explanation']"
+145,Thank you so much for this awesome video.,Thank you so much for this awesome video.,thank you so much for this awesome video,"['thank', 'much', 'awesome', 'video']"
+146,Loved the content,Loved the content,loved the content,"['love', 'content']"
+147,Awesome video. Thanks,Awesome video. Thanks,awesome video thanks,"['awesome', 'video', 'thank']"
+148,Great explanation. Thank you.,Great explanation. Thank you.,great explanation thank you,"['great', 'explanation', 'thank']"
+149,Congratulations on the video!,Congratulations on the video!,congratulations on the video,"['congratulation', 'video']"
+150,GREAT CONTENT,GREAT CONTENT,great content,"['great', 'content']"
+151,Thanks for sharing this video.,Thanks for sharing this video.,thanks for sharing this video,"['thank', 'share', 'video']"
+152,Awesome explanation,Awesome explanation,awesome explanation,"['awesome', 'explanation']"
+153,Nice explanation,Nice explanation,nice explanation,"['nice', 'explanation']"
+154,Fantastic video,Fantastic video,fantastic video,"['fantastic', 'video']"
+155,"Amazing video 👏🏻 productive 6 min video ,, keep up the good work 😊","Amazing video  clapping_hands_light_skin_tone  productive 6 min video ,, keep up the good work  smiling_face_with_smiling_eyes ",amazing video clapping_hands_light_skin_tone productive min video keep up the good work smiling_face_with_smiling_eyes,"['amazing', 'video', 'clapping_hands_light_skin_tone', 'productive', 'min', 'video', 'keep', 'good', 'work', 'smiling_face_with_smiling_eyes']"
+156,Very nice introduction,Very nice introduction,very nice introduction,"['nice', 'introduction']"
+157,thank you so much !!,thank you so much !!,thank you so much,"['thank', 'much']"
+158,Thank you!,Thank you!,thank you,['thank']
+159,amazing video sir,amazing video sir,amazing video sir,"['amazing', 'video', 'sir']"
+160,Great. The correct answer is C) Ensures fault tolerance,Great. The correct answer is C) Ensures fault tolerance,great the correct answer is c ensures fault tolerance,"['great', 'correct', 'answer', 'c', 'ensure', 'fault', 'tolerance']"
+161,Great! The answer is C.,Great! The answer is C.,great the answer is c,"['great', 'answer', 'c']"
+162,very helpful video. thanks.,very helpful video. thanks.,very helpful video thanks,"['helpful', 'video', 'thank']"
+163,Cool Explanation,Cool Explanation,cool explanation,"['cool', 'explanation']"
+164,The advantage of 3x replication is to ensure fault tolerance in case of node crashing,The advantage of 3x replication is to ensure fault tolerance in case of node crashing,the advantage of x replication is to ensure fault tolerance in case of node crashing,"['advantage', 'x', 'replication', 'ensure', 'fault', 'tolerance', 'case', 'node', 'crash']"
+165,Really nice video. The answer is C. Ensures Fault Tolerance.,Really nice video. The answer is C. Ensures Fault Tolerance.,really nice video the answer is c ensures fault tolerance,"['really', 'nice', 'video', 'answer', 'c', 'ensure', 'fault', 'tolerance']"
+166,is for Fault Tolerance. tis vid is great.,is for Fault Tolerance. tis vid is great.,is for fault tolerance tis vid is great,"['fault', 'tolerance', 'tis', 'vid', 'great']"
+167,Wonderful video..,Wonderful video..,wonderful video,"['wonderful', 'video']"
+168,Thanks! Clear,Thanks! Clear,thanks clear,"['thank', 'clear']"
+169,Extraordinary!,Extraordinary!,extraordinary,['extraordinary']
+170,"Answer: c) fault tolerance 
+Great video👍🏿👍🏿👍🏿","Answer: c) fault tolerance 
+Great video thumbs_up_dark_skin_tone  thumbs_up_dark_skin_tone  thumbs_up_dark_skin_tone ",answer: c fault tolerance great video thumbs_up_dark_skin_tone thumbs_up_dark_skin_tone thumbs_up_dark_skin_tone,"['answer', ':', 'c', 'fault', 'tolerance', 'great', 'video', 'thumbs_up_dark_skin_tone', 'thumbs_up_dark_skin_tone', 'thumbs_up_dark_skin_tone']"
+171,"thanks for the explanation.
+the answer to the question is c - ensures fault tolerance","thanks for the explanation.
+the answer to the question is c - ensures fault tolerance",thanks for the explanation the answer to the question is c ensures fault tolerance,"['thank', 'explanation', 'answer', 'question', 'c', 'ensure', 'fault', 'tolerance']"
+172,Nice presentation.. Thank you..,Nice presentation.. Thank you..,nice presentation thank you,"['nice', 'presentation', 'thank']"
+173,Nice explanation.. The answer is C - Ensure fault tollerens,Nice explanation.. The answer is C - Ensure fault tollerens,nice explanation the answer is c ensure fault tollerens,"['nice', 'explanation', 'answer', 'c', 'ensure', 'fault', 'tolleren']"
+174,Thanks mate.,Thanks mate.,thanks mate,"['thank', 'mate']"
+175,"Storage unit - Distributed System and maintains backup 
+Mapreduce - Splits and process the data
+YARN - Yet another resources negotiator
+- Resource manager, node manager, application master","Storage unit - Distributed System and maintains backup 
+Mapreduce - Splits and process the data
+YARN - Yet another resources negotiator
+- Resource manager, node manager, application master",storage unit distributed system and maintains backup mapreduce splits and process the data yarn yet another resources negotiator resource manager node manager application master,"['storage', 'unit', 'distribute', 'system', 'maintain', 'backup', 'mapreduce', 'split', 'process', 'datum', 'yarn', 'yet', 'another', 'resource', 'negotiator', 'resource', 'manager', 'node', 'manager', 'application', 'master']"
+176,All answers is correct.,All answers is correct.,all answers is correct,"['answer', 'correct']"
+177,Replications are done to C)  ensure fault tolerance.,Replications are done to C)  ensure fault tolerance.,replications are done to c ensure fault tolerance,"['replication', 'do', 'c', 'ensure', 'fault', 'tolerance']"
+178,wonderful video for  beginners like me. Thanks a ton...I think the answer of the question is option c: ensure fault tolerance,wonderful video for  beginners like me. Thanks a ton...I think the answer of the question is option c: ensure fault tolerance,wonderful video for beginners like me thanks a toni think the answer of the question is option c: ensure fault tolerance,"['wonderful', 'video', 'beginner', 'like', 'thank', 'toni', 'think', 'answer', 'question', 'option', 'c', ':', 'ensure', 'fault', 'tolerance']"
+179,well explained ...useful,well explained ...useful,well explained useful,"['well', 'explain', 'useful']"
+180,best explanation!!! thanks a lot!,best explanation!!! thanks a lot!,best explanation thanks a lot,"['good', 'explanation', 'thank', 'lot']"
+181,e) All of the above... but mainly c)ensures fault tolerance.,e) All of the above... but mainly c)ensures fault tolerance.,e all of the above but mainly censures fault tolerance,"['e', 'mainly', 'censure', 'fault', 'tolerance']"
+182,Thanks a lot. 🎉🎉,Thanks a lot.  party_popper  party_popper ,thanks a lot party_popper party_popper,"['thank', 'lot', 'party_popper', 'party_popper']"
+183,"Answer is Option (C)-Ensures Fault Tolerance.
+It replicates data on 3 different nodes ,if any node crashes data can be retrieved from another node. I have one question- Since it replicates same data over 3 different nodes ,we required more storage space which comes with additional cost. Is there is any specific method which can be used to reduce this cost  ?","Answer is Option (C)-Ensures Fault Tolerance.
+It replicates data on 3 different nodes ,if any node crashes data can be retrieved from another node. I have one question- Since it replicates same data over 3 different nodes ,we required more storage space which comes with additional cost. Is there is any specific method which can be used to reduce this cost  ?",answer is option censures fault tolerance it replicates data on different nodes if any node crashes data can be retrieved from another node i have one question since it replicates same data over different nodes we required more storage space which comes with additional cost is there is any specific method which can be used to reduce this cost,"['answer', 'option', 'censure', 'fault', 'tolerance', 'replicate', 'data', 'different', 'nodes', 'node', 'crash', 'datum', 'retrieve', 'another', 'node', 'one', 'question', 'since', 'replicate', 'data', 'different', 'node', 'require', 'storage', 'space', 'come', 'additional', 'cost', 'specific', 'method', 'use', 'reduce', 'cost']"
+184,The answer is C which is to ensure fault tolerance.,The answer is C which is to ensure fault tolerance.,the answer is c which is to ensure fault tolerance,"['answer', 'c', 'ensure', 'fault', 'tolerance']"
+185,"The answer is c), just as mentioned earlier in the video.
+Also, the video is really helpful and brief, thx!","The answer is c), just as mentioned earlier in the video.
+Also, the video is really helpful and brief, thx!",the answer is c just as mentioned earlier in the video also the video is really helpful and brief thx,"['answer', 'c', 'mention', 'early', 'video', 'also', 'video', 'really', 'helpful', 'brief', 'thx']"
+186,"Advantage of the 3x replication schema in HDFS is  ""Ensure fault tolerance"".","Advantage of the 3x replication schema in HDFS is  ""Ensure fault tolerance"".",advantage of the x replication schema in hdfs is ensure fault tolerance,"['advantage', 'x', 'replication', 'schema', 'hdfs', 'ensure', 'fault', 'tolerance']"
+187,nicely explained and cool diagrams . Thanks,nicely explained and cool diagrams . Thanks,nicely explained and cool diagrams thanks,"['nicely', 'explain', 'cool', 'diagram', 'thank']"
+188,"Great Video, the answer to the quiz is C) Ensures fault tolerance.","Great Video, the answer to the quiz is C) Ensures fault tolerance.",great video the answer to the quiz is c ensures fault tolerance,"['great', 'video', 'answer', 'quiz', 'c', 'ensure', 'fault', 'tolerance']"
+189,"Answer: C) Ensures fault tolerance
+Great and really informative video!!!","Answer: C) Ensures fault tolerance
+Great and really informative video!!!",answer: c ensures fault tolerance great and really informative video,"['answer', ':', 'c', 'ensure', 'fault', 'tolerance', 'great', 'really', 'informative', 'video']"
+190,"I think I will prefer this kind of animation over the traditional slide show explanation , good work @simplilearn and will be looking forward for these kind of video's","I think I will prefer this kind of animation over the traditional slide show explanation , good work @simplilearn and will be looking forward for these kind of video's",i think i will prefer this kind of animation over the traditional slide show explanation good work simplilearn and will be looking forward for these kind of videos,"['think', 'prefer', 'kind', 'animation', 'traditional', 'slide', 'show', 'explanation', 'good', 'work', 'simplilearn', 'look', 'forward', 'kind', 'video']"
+191,u saved me from 100 page ppts before exam,u saved me from 100 page ppts before exam,u saved me from page ppts before exam,"['u', 'save', 'page', 'ppt', 'exam']"
+192,advantage of replication scheme in hadoop is that it ensures fault tolerance,advantage of replication scheme in hadoop is that it ensures fault tolerance,advantage of replication scheme in hadoop is that it ensures fault tolerance,"['advantage', 'replication', 'scheme', 'hadoop', 'ensure', 'fault', 'tolerance']"
+193,Amazing good job,Amazing good job,amazing good job,"['amazing', 'good', 'job']"
+194,awesome video,awesome video,awesome video,"['awesome', 'video']"
+195,thanks for shairng,thanks for shairng,thanks for shairng,"['thank', 'shairng']"
+196,"it should be option C. Ensures fault tolerance, cause if one goes down other replicas takes place.","it should be option C. Ensures fault tolerance, cause if one goes down other replicas takes place.",it should be option c ensures fault tolerance cause if one goes down other replicas takes place,"['option', 'c', 'ensure', 'fault', 'tolerance', 'cause', 'one', 'go', 'replicas', 'take', 'place']"
+197,The advantage of the 3x replication schema in HDFS is Option C: to Ensure fault tolerance.,The advantage of the 3x replication schema in HDFS is Option C: to Ensure fault tolerance.,the advantage of the x replication schema in hdfs is option c: to ensure fault tolerance,"['advantage', 'x', 'replication', 'schema', 'hdfs', 'option', 'c', ':', 'ensure', 'fault', 'tolerance']"
+198,The answer to the question is : Ensure fault tolerance. Thank you for the video it was very informative,The answer to the question is : Ensure fault tolerance. Thank you for the video it was very informative,the answer to the question is : ensure fault tolerance thank you for the video it was very informative,"['answer', 'question', ':', 'ensure', 'fault', 'tolerance', 'thank', 'video', 'informative']"
+199,Just saved me a lot of stress going through all the slides from the academy. Amazing! tnxx,Just saved me a lot of stress going through all the slides from the academy. Amazing! tnxx,just saved me a lot of stress going through all the slides from the academy amazing tnxx,"['save', 'lot', 'stress', 'go', 'slide', 'academy', 'amazing', 'tnxx']"
+200,The advantage of 3x replication is to ensure fault tolerance in case of node crashing,The advantage of 3x replication is to ensure fault tolerance in case of node crashing,the advantage of x replication is to ensure fault tolerance in case of node crashing,"['advantage', 'x', 'replication', 'ensure', 'fault', 'tolerance', 'case', 'node', 'crash']"
+201,Option C) Ensures fault tolerance is correct,Option C) Ensures fault tolerance is correct,option c ensures fault tolerance is correct,"['option', 'c', 'ensure', 'fault', 'tolerance', 'correct']"
+202,option C is the answer as to save data or replica of the schema which ensure fault tolerance,option C is the answer as to save data or replica of the schema which ensure fault tolerance,option c is the answer as to save data or replica of the schema which ensure fault tolerance,"['option', 'c', 'answer', 'save', 'data', 'replica', 'schema', 'ensure', 'fault', 'tolerance']"
+203,very helpful,very helpful,very helpful,['helpful']
+204,Thanks for the video!!!! Letter C- ensures fault tolerance...,Thanks for the video!!!! Letter C- ensures fault tolerance...,thanks for the video letter c ensures fault tolerance,"['thank', 'video', 'letter', 'c', 'ensure', 'fault', 'tolerance']"
+205,"Awesome explanation.  I loved that , clearly explained all the parts.","Awesome explanation.  I loved that , clearly explained all the parts.",awesome explanation i loved that clearly explained all the parts,"['awesome', 'explanation', 'love', 'clearly', 'explain', 'part']"
+206,Amazing video,Amazing video,amazing video,"['amazing', 'video']"
+207,"Hi, my answer is ""ensures fault tolerance"". Thank for the clear video, it will be useful for the Azure Data Fundamentals Certification.","Hi, my answer is ""ensures fault tolerance"". Thank for the clear video, it will be useful for the Azure Data Fundamentals Certification.",hi my answer is ensures fault tolerance thank for the clear video it will be useful for the azure data fundamentals certification,"['hi', 'answer', 'ensure', 'fault', 'tolerance', 'thank', 'clear', 'video', 'useful', 'azure', 'datum', 'fundamental', 'certification']"
+208,Pretty awesome!!! ..,Pretty awesome!!! ..,pretty awesome,"['pretty', 'awesome']"
+209,Good intro video ! Answer is Option C.,Good intro video ! Answer is Option C.,good intro video answer is option c,"['good', 'intro', 'video', 'answer', 'option', 'c']"
+210,"thanks ans: A,B,D,... with the possibility of improving C fault capabilities.","thanks ans: A,B,D,... with the possibility of improving C fault capabilities.",thanks ans: abd with the possibility of improving c fault capabilities,"['thank', 'ans', ':', 'abd', 'possibility', 'improve', 'c', 'fault', 'capability']"
+211,"most people misinterpret it as a software product, whereas it simply is a framework","most people misinterpret it as a software product, whereas it simply is a framework",most people misinterpret it as a software product whereas it simply is a framework,"['people', 'misinterpret', 'software', 'product', 'whereas', 'simply', 'framework']"
+212,"answer is c , it ensures the fault tolerance","answer is c , it ensures the fault tolerance",answer is c it ensures the fault tolerance,"['answer', 'c', 'ensure', 'fault', 'tolerance']"
+213,Love it !,Love it !,love it,['love']
+214,excellent,excellent,excellent,['excellent']
+215,Good knowledge,Good knowledge,good knowledge,"['good', 'knowledge']"
+216,very gud ................................,very gud ................................,very gud,['gud']
+217,"ensure fault tolerance, thanks for the tutorial","ensure fault tolerance, thanks for the tutorial",ensure fault tolerance thanks for the tutorial,"['ensure', 'fault', 'tolerance', 'thank', 'tutorial']"
+218,Replica nodes help in fault tolerance but I think it may also help in load balance as replica nodes which can also take part in search queries which reduce load on one node,Replica nodes help in fault tolerance but I think it may also help in load balance as replica nodes which can also take part in search queries which reduce load on one node,replica nodes help in fault tolerance but i think it may also help in load balance as replica nodes which can also take part in search queries which reduce load on one node,"['replica', 'node', 'help', 'fault', 'tolerance', 'think', 'may', 'also', 'help', 'load', 'balance', 'replica', 'node', 'also', 'take', 'part', 'search', 'query', 'reduce', 'load', 'one', 'node']"
+219,thank you,thank you,thank you,['thank']
+220,Small Capsule but more informative.  The correct option is C.,Small Capsule but more informative.  The correct option is C.,small capsule but more informative the correct option is c,"['small', 'capsule', 'informative', 'correct', 'option', 'c']"
+221,Option C) Ensures fault tolerance,Option C) Ensures fault tolerance,option c ensures fault tolerance,"['option', 'c', 'ensure', 'fault', 'tolerance']"
+222,Best one 😍,Best one  smiling_face_with_heart-eyes ,best one smiling_face_with_hearteyes,"['good', 'one', 'smiling_face_with_hearteye']"
+223,Liked - Subscribed - The answer to the quiz is C) Ensures fault tolerance.  =),Liked - Subscribed - The answer to the quiz is C) Ensures fault tolerance.  =),liked subscribed the answer to the quiz is c ensures fault tolerance,"['like', 'subscribe', 'answer', 'quiz', 'c', 'ensure', 'fault', 'tolerance']"
+224,"Ensures Fault tolerance, which helps not to lose data if any of the node is down.","Ensures Fault tolerance, which helps not to lose data if any of the node is down.",ensures fault tolerance which helps not to lose data if any of the node is down,"['ensure', 'fault', 'tolerance', 'help', 'lose', 'datum', 'node']"
+225,answer: Ensures fault tolerance,answer: Ensures fault tolerance,answer: ensures fault tolerance,"['answer', ':', 'ensure', 'fault', 'tolerance']"
+226,"I clicked in this video thinking it would be satire because of the title, still a good video and learned a lot.","I clicked in this video thinking it would be satire because of the title, still a good video and learned a lot.",i clicked in this video thinking it would be satire because of the title still a good video and learned a lot,"['click', 'video', 'thinking', 'would', 'satire', 'title', 'still', 'good', 'video', 'learn', 'lot']"
+227,great explanation,great explanation,great explanation,"['great', 'explanation']"
+228,"quiz 05:11  My answer is A, B, and C.","quiz 05:11  My answer is A, B, and C.",quiz : my answer is a b and c,"['quiz', ':', 'answer', 'b', 'c']"
+229,thanks for the great explanation and answer is C,thanks for the great explanation and answer is C,thanks for the great explanation and answer is c,"['thank', 'great', 'explanation', 'answer', 'c']"
+230,the answer is C ie Ensure Fault tolerance.,the answer is C ie Ensure Fault tolerance.,the answer is c ie ensure fault tolerance,"['answer', 'c', 'ie', 'ensure', 'fault', 'tolerance']"
+231,Thank you. Easy explaination,Thank you. Easy explaination,thank you easy explaination,"['thank', 'easy', 'explaination']"
+232,this video is super useful!!!,this video is super useful!!!,this video is super useful,"['video', 'super', 'useful']"
+233,Thank you very much!,Thank you very much!,thank you very much,"['thank', 'much']"
+234,This is really helpful.. answer is C,This is really helpful.. answer is C,this is really helpful answer is c,"['really', 'helpful', 'answer', 'c']"
+235,"Great Video!! Easy to learn, Ensure Fault tolerant for data block replication in node.","Great Video!! Easy to learn, Ensure Fault tolerant for data block replication in node.",great video easy to learn ensure fault tolerant for data block replication in node,"['great', 'video', 'easy', 'learn', 'ensure', 'fault', 'tolerant', 'data', 'block', 'replication', 'node']"
+236,Great explanation..100 times better than our lecturers..thank u,Great explanation..100 times better than our lecturers..thank u,great explanation times better than our lecturersthank u,"['great', 'explanation', 'time', 'well', 'lecturersthank', 'u']"
+237,Thank you so much for this simple explanation,Thank you so much for this simple explanation,thank you so much for this simple explanation,"['thank', 'much', 'simple', 'explanation']"
+238,The answer is C.(ensures fault tolerance),The answer is C.(ensures fault tolerance),the answer is censures fault tolerance,"['answer', 'censure', 'fault', 'tolerance']"
+239,answer is (c) ensures fault tolerance,answer is (c) ensures fault tolerance,answer is c ensures fault tolerance,"['answer', 'c', 'ensure', 'fault', 'tolerance']"
+240,all of the above right answer,all of the above right answer,all of the above right answer,"['right', 'answer']"
+241,answer is C.Ensures fault tolerance,answer is C.Ensures fault tolerance,answer is censures fault tolerance,"['answer', 'censure', 'fault', 'tolerance']"
+242,"Thanks, great Video 
+I selected the option C - Ensure Fault tolerance","Thanks, great Video 
+I selected the option C - Ensure Fault tolerance",thanks great video i selected the option c ensure fault tolerance,"['thank', 'great', 'video', 'select', 'option', 'c', 'ensure', 'fault', 'tolerance']"
+243,C! Great video,C! Great video,c great video,"['c', 'great', 'video']"
+244,Good one ... answer is C.,Good one ... answer is C.,good one answer is c,"['good', 'one', 'answer', 'c']"
+245,The correct answer should be c) ensures fault tolerance,The correct answer should be c) ensures fault tolerance,the correct answer should be c ensures fault tolerance,"['correct', 'answer', 'c', 'ensure', 'fault', 'tolerance']"
+246,Amazing.....answer is C,Amazing.....answer is C,amazinganswer is c,"['amazinganswer', 'c']"
+247,Really very good info. Thanks.,Really very good info. Thanks.,really very good info thanks,"['really', 'good', 'info', 'thank']"
+248,Thanks,Thanks,thanks,['thank']
+249,The answer is C ensures fault tolerance!,The answer is C ensures fault tolerance!,the answer is c ensures fault tolerance,"['answer', 'c', 'ensure', 'fault', 'tolerance']"
+250,Answer C! Please make the Amazon voucher out to Jon and Patrick. Thanks Simplilearn 😁,Answer C! Please make the Amazon voucher out to Jon and Patrick. Thanks Simplilearn  beaming_face_with_smiling_eyes ,answer c please make the amazon voucher out to jon and patrick thanks simplilearn beaming_face_with_smiling_eyes,"['answer', 'c', 'please', 'make', 'amazon', 'voucher', 'jon', 'patrick', 'thank', 'simplilearn', 'beaming_face_with_smiling_eye']"
+251,Option (c) Ensures Fault tolerance.,Option (c) Ensures Fault tolerance.,option c ensures fault tolerance,"['option', 'c', 'ensure', 'fault', 'tolerance']"
+252,C. Ensure fault tolerance,C. Ensure fault tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+253,c) ensures fault tolerance,c) ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+254,C. Ensure fault tolerance,C. Ensure fault tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+255,a good intro,a good intro,a good intro,"['good', 'intro']"
+256,"Advantages of the 3x replication Schema in HdFS is b,c,d","Advantages of the 3x replication Schema in HdFS is b,c,d",advantages of the x replication schema in hdfs is bcd,"['advantage', 'x', 'replication', 'schema', 'hdfs', 'bcd']"
+257,ensures fault tolerance since replication factor is 3 each 128 mb data will be replicated 3 times,ensures fault tolerance since replication factor is 3 each 128 mb data will be replicated 3 times,ensures fault tolerance since replication factor is each mb data will be replicated times,"['ensure', 'fault', 'tolerance', 'since', 'replication', 'factor', 'mb', 'datum', 'replicate', 'time']"
+258,The 3x replication schema ensures fault tolerance,The 3x replication schema ensures fault tolerance,the x replication schema ensures fault tolerance,"['x', 'replication', 'schema', 'ensure', 'fault', 'tolerance']"
+259,Option C fault tolerance,Option C fault tolerance,option c fault tolerance,"['option', 'c', 'fault', 'tolerance']"
+260,Option C is the correct Answer,Option C is the correct Answer,option c is the correct answer,"['option', 'c', 'correct', 'answer']"
+261,Wow something productive,Wow something productive,wow something productive,"['wow', 'something', 'productive']"
+262,Great video. I believe the answer is option b.,Great video. I believe the answer is option b.,great video i believe the answer is option b,"['great', 'video', 'believe', 'answer', 'option', 'b']"
+263,By given question answer was--ensure fault tolerance,By given question answer was--ensure fault tolerance,by given question answer wasensure fault tolerance,"['give', 'question', 'answer', 'wasensure', 'fault', 'tolerance']"
+264,"C, ensures fault tolerance","C, ensures fault tolerance",c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+265,Ensures fault tolerance option c is correct.,Ensures fault tolerance option c is correct.,ensures fault tolerance option c is correct,"['ensure', 'fault', 'tolerance', 'option', 'c', 'correct']"
+266,Answer is a) support parallel processing,Answer is a) support parallel processing,answer is a support parallel processing,"['answer', 'support', 'parallel', 'processing']"
+267,ensures fault tollerance,ensures fault tollerance,ensures fault tollerance,"['ensure', 'fault', 'tollerance']"
+268,C) ensures fault tolerance because duplication is a strategy to do that,C) ensures fault tolerance because duplication is a strategy to do that,c ensures fault tolerance because duplication is a strategy to do that,"['c', 'ensure', 'fault', 'tolerance', 'duplication', 'strategy']"
+269,"answer is c, fault tolerance","answer is c, fault tolerance",answer is c fault tolerance,"['answer', 'c', 'fault', 'tolerance']"
+270,C) ensure fault tolerance,C) ensure fault tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+271,option C> ensure fault tolerance,option C> ensure fault tolerance,option c ensure fault tolerance,"['option', 'c', 'ensure', 'fault', 'tolerance']"
+272,All 4 options are correct,All 4 options are correct,all options are correct,"['option', 'correct']"
+273,C) Ensures fault tolerance.,C) Ensures fault tolerance.,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+274,Correct answer is c: Ensures fault tolerance.. which Protects the data when a node crashes,Correct answer is c: Ensures fault tolerance.. which Protects the data when a node crashes,correct answer is c: ensures fault tolerance which protects the data when a node crashes,"['correct', 'answer', 'c', ':', 'ensure', 'fault', 'tolerance', 'protect', 'data', 'node', 'crash']"
+275,The answer is option (C) Ensure fault tolerance.,The answer is option (C) Ensure fault tolerance.,the answer is option c ensure fault tolerance,"['answer', 'option', 'c', 'ensure', 'fault', 'tolerance']"
+276,The answer is c ❤️,The answer is c  red_heart ,the answer is c red_heart,"['answer', 'c', 'red_heart']"
+277,Option C is the answer because it avoids data loss,Option C is the answer because it avoids data loss,option c is the answer because it avoids data loss,"['option', 'c', 'answer', 'avoid', 'data', 'loss']"
+278,3X replication of schema in HDFS ensures fault tolerance,3X replication of schema in HDFS ensures fault tolerance,x replication of schema in hdfs ensures fault tolerance,"['x', 'replication', 'schema', 'hdfs', 'ensure', 'fault', 'tolerance']"
+279,C) Ensures fault tolerance,C) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+280,the answer is  c)Ensures fault tolerance,the answer is  c)Ensures fault tolerance,the answer is censures fault tolerance,"['answer', 'censure', 'fault', 'tolerance']"
+281,3 time factor is used for fault tolerance,3 time factor is used for fault tolerance,time factor is used for fault tolerance,"['time', 'factor', 'use', 'fault', 'tolerance']"
+282,"Option C :Advantage of the 3x replication schema in HDFS is  ""Ensure fault tolerance","Option C :Advantage of the 3x replication schema in HDFS is  ""Ensure fault tolerance",option c :advantage of the x replication schema in hdfs is ensure fault tolerance,"['option', 'c', ':', 'advantage', 'x', 'replication', 'schema', 'hdfs', 'ensure', 'fault', 'tolerance']"
+283,C.  To ensure fault tolerance,C.  To ensure fault tolerance,c to ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+284,c) ensures fault tolerance,c) ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+285,Option C: to Ensure fault tolerance,Option C: to Ensure fault tolerance,option c: to ensure fault tolerance,"['option', 'c', ':', 'ensure', 'fault', 'tolerance']"
+286,The advantage of 3X replication schema in HDFS is It Ensures fault tolerance,The advantage of 3X replication schema in HDFS is It Ensures fault tolerance,the advantage of x replication schema in hdfs is it ensures fault tolerance,"['advantage', 'x', 'replication', 'schema', 'hdfs', 'ensure', 'fault', 'tolerance']"
+287,he advantage of the 3x replication schema in HDFS is Option C: to Ensure fault tolerance.,he advantage of the 3x replication schema in HDFS is Option C: to Ensure fault tolerance.,he advantage of the x replication schema in hdfs is option c: to ensure fault tolerance,"['advantage', 'x', 'replication', 'schema', 'hdfs', 'option', 'c', ':', 'ensure', 'fault', 'tolerance']"
+288,C) Ensure fault tolerance,C) Ensure fault tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+289,"Informative video with one Caveat.  With respect to replication.  The phrase ""at no cost"" is not  true.  There is a cost of disk space.  For the purposes of this video it is a pedantic point but for an architect and budget set of reasons it should be mentioned.","Informative video with one Caveat.  With respect to replication.  The phrase ""at no cost"" is not  true.  There is a cost of disk space.  For the purposes of this video it is a pedantic point but for an architect and budget set of reasons it should be mentioned.",informative video with one caveat with respect to replication the phrase at no cost is not true there is a cost of disk space for the purposes of this video it is a pedantic point but for an architect and budget set of reasons it should be mentioned,"['informative', 'video', 'one', 'caveat', 'respect', 'replication', 'phrase', 'cost', 'true', 'cost', 'disk', 'space', 'purpose', 'video', 'pedantic', 'point', 'architect', 'budget', 'set', 'reason', 'mention']"
+290,Answer is Fault tolerance,Answer is Fault tolerance,answer is fault tolerance,"['answer', 'fault', 'tolerance']"
+291,C. Ensure fault tolerance,C. Ensure fault tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+292,the answer is : ensures fault tolerance.,the answer is : ensures fault tolerance.,the answer is : ensures fault tolerance,"['answer', ':', 'ensure', 'fault', 'tolerance']"
+293,"C
+is the correct one","C
+is the correct one",c is the correct one,"['c', 'correct', 'one']"
+294,Option b c and d is the advantage of hdfs,Option b c and d is the advantage of hdfs,option b c and d is the advantage of hdfs,"['option', 'b', 'c', 'advantage', 'hdfs']"
+295,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+296,C: Fault tolerance is the answer,C: Fault tolerance is the answer,c: fault tolerance is the answer,"['c', ':', 'fault', 'tolerance', 'answer']"
+297,The answer is to ensures fault tolerance.,The answer is to ensures fault tolerance.,the answer is to ensures fault tolerance,"['answer', 'ensure', 'fault', 'tolerance']"
+298,c) ensures fault tolerance,c) ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+299,C.Ensures Fault tolerance,C.Ensures Fault tolerance,censures fault tolerance,"['censure', 'fault', 'tolerance']"
+300,3x replication in HDFS ensures fault tolerance.,3x replication in HDFS ensures fault tolerance.,x replication in hdfs ensures fault tolerance,"['x', 'replication', 'hdfs', 'ensure', 'fault', 'tolerance']"
+301,it ensures fault tolerance,it ensures fault tolerance,it ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+302,amazing,amazing,amazing,['amazing']
+303,All of the above are advantages,All of the above are advantages,all of the above are advantages,['advantage']
+304,C ensures fault tolerance,C ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+305,"Well the Answer is To Ensure Fault Tolerance
+If any case our data got erase or corrupt we can still have it as backup","Well the Answer is To Ensure Fault Tolerance
+If any case our data got erase or corrupt we can still have it as backup",well the answer is to ensure fault tolerance if any case our data got erase or corrupt we can still have it as backup,"['well', 'answer', 'ensure', 'fault', 'tolerance', 'case', 'datum', 'get', 'erase', 'corrupt', 'still', 'backup']"
+306,Supports parallel processing,Supports parallel processing,supports parallel processing,"['support', 'parallel', 'processing']"
+307,C Option : Ensure fault tolerance,C Option : Ensure fault tolerance,c option : ensure fault tolerance,"['c', 'option', ':', 'ensure', 'fault', 'tolerance']"
+308,Answer is c) Ensure Fault Tolerance,Answer is c) Ensure Fault Tolerance,answer is c ensure fault tolerance,"['answer', 'c', 'ensure', 'fault', 'tolerance']"
+309,It Ensures fault tolerance,It Ensures fault tolerance,it ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+310,"option c, ensure fault tolerance","option c, ensure fault tolerance",option c ensure fault tolerance,"['option', 'c', 'ensure', 'fault', 'tolerance']"
+311,answer C: fault-tolerance,answer C: fault-tolerance,answer c: faulttolerance,"['answer', 'c', ':', 'faulttolerance']"
+312,C ensures fault tolerance,C ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+313,Option C. Ensures Fault Tolerance,Option C. Ensures Fault Tolerance,option c ensures fault tolerance,"['option', 'c', 'ensure', 'fault', 'tolerance']"
+314,option C ensures data fault tolerance,option C ensures data fault tolerance,option c ensures data fault tolerance,"['option', 'c', 'ensure', 'data', 'fault', 'tolerance']"
+315,"answer is ""data is not lost at any cost; even if one DataNode crashes, hence HDFS is ensure fault-tolerant.""","answer is ""data is not lost at any cost; even if one DataNode crashes, hence HDFS is ensure fault-tolerant.""",answer is data is not lost at any cost even if one datanode crashes hence hdfs is ensure faulttolerant,"['answer', 'datum', 'lose', 'cost', 'even', 'one', 'datanode', 'crash', 'hence', 'hdfs', 'ensure', 'faulttolerant']"
+316,"The answer to the question is fault tolerance. But I have a doubt, when 3x replication happens the storage amount also increases by 3 right. does that cost more on storage ?","The answer to the question is fault tolerance. But I have a doubt, when 3x replication happens the storage amount also increases by 3 right. does that cost more on storage ?",the answer to the question is fault tolerance but i have a doubt when x replication happens the storage amount also increases by right does that cost more on storage,"['answer', 'question', 'fault', 'tolerance', 'doubt', 'x', 'replication', 'happen', 'storage', 'amount', 'also', 'increase', 'right', 'cost', 'storage']"
+317,answer of the question :  is c ) Ensures fault tolerance,answer of the question :  is c ) Ensures fault tolerance,answer of the question : is c ensures fault tolerance,"['answer', 'question', ':', 'c', 'ensure', 'fault', 'tolerance']"
+318,The answer is: C) Ensures fault tolerance,The answer is: C) Ensures fault tolerance,the answer is: c ensures fault tolerance,"['answer', ':', 'c', 'ensure', 'fault', 'tolerance']"
+319,I can’t believe i understood this.,I can’t believe i understood this.,i cant believe i understood this,"['can', 'not', 'believe', 'understand']"
+320,Answer is C  - fault tolerance,Answer is C  - fault tolerance,answer is c fault tolerance,"['answer', 'c', 'fault', 'tolerance']"
+321,"c) Ensures fault tolerance.
+
+Answer to the question  at 05:25 :)","c) Ensures fault tolerance.
+
+Answer to the question  at 05:25 :)",c ensures fault tolerance answer to the question at : :,"['c', 'ensure', 'fault', 'tolerance', 'answer', 'question', ':', ':']"
+322,The answer is To ensure fault tolerance,The answer is To ensure fault tolerance,the answer is to ensure fault tolerance,"['answer', 'ensure', 'fault', 'tolerance']"
+323,Very good!,Very good!,very good,['good']
+324,option c ensures fault tolerance.,option c ensures fault tolerance.,option c ensures fault tolerance,"['option', 'c', 'ensure', 'fault', 'tolerance']"
+325,HDFS 3X schema: Ensure fault tolerance.,HDFS 3X schema: Ensure fault tolerance.,hdfs x schema: ensure fault tolerance,"['hdfs', 'x', 'schema', ':', 'ensure', 'fault', 'tolerance']"
+326,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+327,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+328,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+329,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+330,Option c correct,Option c correct,option c correct,"['option', 'c', 'correct']"
+331,C - Ensures fault tolerance,C - Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+332,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+333,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+334,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+335,ans is C. Ensures fault tolerance,ans is C. Ensures fault tolerance,ans is c ensures fault tolerance,"['ans', 'c', 'ensure', 'fault', 'tolerance']"
+336,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+337,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+338,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+339,"Answer is ""A: Parallel processing""","Answer is ""A: Parallel processing""",answer is a: parallel processing,"['answer', ':', 'parallel', 'processing']"
+340,Option C is correct.,Option C is correct.,option c is correct,"['option', 'c', 'correct']"
+341,The answer is 3)   Ensures fault tolerance,The answer is 3)   Ensures fault tolerance,the answer is ensures fault tolerance,"['answer', 'ensure', 'fault', 'tolerance']"
+342,To ensure fault tolerance,To ensure fault tolerance,to ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+343,c. Ensures fault tolerance,c. Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+344,C is the correct option.,C is the correct option.,c is the correct option,"['c', 'correct', 'option']"
+345,Option c is the correct answer,Option c is the correct answer,option c is the correct answer,"['option', 'c', 'correct', 'answer']"
+346,Answer for your question is 3×replication   ensures fault tolerance,Answer for your question is 3×replication   ensures fault tolerance,answer for your question is replication ensures fault tolerance,"['answer', 'question', 'replication', 'ensure', 'fault', 'tolerance']"
+347,Answer : (c) fault tolerance,Answer : (c) fault tolerance,answer : c fault tolerance,"['answer', ':', 'c', 'fault', 'tolerance']"
+348,"Answer of Question is C ,Ensure  fault tolerence","Answer of Question is C ,Ensure  fault tolerence",answer of question is c ensure fault tolerence,"['answer', 'question', 'c', 'ensure', 'fault', 'tolerence']"
+349,The answer is : Ensure fault tolerance,The answer is : Ensure fault tolerance,the answer is : ensure fault tolerance,"['answer', ':', 'ensure', 'fault', 'tolerance']"
+350,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+351,advantage of 3X replication schema is it ensures fault tolerance.,advantage of 3X replication schema is it ensures fault tolerance.,advantage of x replication schema is it ensures fault tolerance,"['advantage', 'x', 'replication', 'schema', 'ensure', 'fault', 'tolerance']"
+352,C ensuring fault tolerance,C ensuring fault tolerance,c ensuring fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+353,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+354,OPT C] Fault Tolarance,OPT C] Fault Tolarance,opt c fault tolarance,"['opt', 'c', 'fault', 'tolarance']"
+355,Ans: Ensures for tolerance,Ans: Ensures for tolerance,ans: ensures for tolerance,"['ans', ':', 'ensure', 'tolerance']"
+356,c) Ensures fault tolerance,c) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+357,C Ensures fault tolerance,C Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+358,Fault Tolerance is the answer,Fault Tolerance is the answer,fault tolerance is the answer,"['fault', 'tolerance', 'answer']"
+359,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+360,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+361,Option is C),Option is C),option is c,"['option', 'c']"
+362,C. Ensures fault tolerance,C. Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+363,Could I use hadoop to implement a data warehouse?,Could I use hadoop to implement a data warehouse?,could i use hadoop to implement a data warehouse,"['could', 'use', 'hadoop', 'implement', 'data', 'warehouse']"
+364,C. Ensures fault tolerance,C. Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+365,c) ensures Fault Tolerance,c) ensures Fault Tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+366,super,super,super,['super']
+367,all four is the answer,all four is the answer,all four is the answer,"['four', 'answer']"
+368,c.) Ensures fault tolerance,c.) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+369,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+370,c) Ensures fault tolerance,c) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+371,"1:16
+4:11
+5:43","1:16
+4:11
+5:43",: : :,"[':', ':', ':']"
+372,option c is correct,option c is correct,option c is correct,"['option', 'c', 'correct']"
+373,All of the above,All of the above,all of the above,[]
+374,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+375,Great explainer vid! Is Hadoop still relevant today?  how does it work in the AI/ML pipeline ?,Great explainer vid! Is Hadoop still relevant today?  how does it work in the AI/ML pipeline ?,great explainer vid is hadoop still relevant today how does it work in the aiml pipeline,"['great', 'explainer', 'vid', 'hadoop', 'still', 'relevant', 'today', 'work', 'aiml', 'pipeline']"
+376,Fault tolerance is the answer,Fault tolerance is the answer,fault tolerance is the answer,"['fault', 'tolerance', 'answer']"
+377,C) Ensures fault tolerance 😃,C) Ensures fault tolerance  grinning_face_with_big_eyes ,c ensures fault tolerance grinning_face_with_big_eyes,"['c', 'ensure', 'fault', 'tolerance', 'grinning_face_with_big_eyes']"
+378,"Answer is 
+C.Ensures Fault Tolerance","Answer is 
+C.Ensures Fault Tolerance",answer is censures fault tolerance,"['answer', 'censure', 'fault', 'tolerance']"
+379,Supports parallel processing,Supports parallel processing,supports parallel processing,"['support', 'parallel', 'processing']"
+380,C) ensures fault tolerance,C) ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+381,Option C is correct,Option C is correct,option c is correct,"['option', 'c', 'correct']"
+382,C) ensure fault Tolerance,C) ensure fault Tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+383,ensures fault tolerance,ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+384,Option C is the right ans,Option C is the right ans,option c is the right ans,"['option', 'c', 'right', 'an']"
+385,Option C: Ensure Fault tolerances.,Option C: Ensure Fault tolerances.,option c: ensure fault tolerances,"['option', 'c', ':', 'ensure', 'fault', 'tolerance']"
+386,🔥🔥🔥🔥🔥🔥🔥🔥, fire  fire  fire  fire  fire  fire  fire  fire ,fire fire fire fire fire fire fire fire,"['fire', 'fire', 'fire', 'fire', 'fire', 'fire', 'fire', 'fire']"
+387,Its option C) Ensures fault tolerance,Its option C) Ensures fault tolerance,its option c ensures fault tolerance,"['option', 'c', 'ensure', 'fault', 'tolerance']"
+388,The answer is : C: Ensure fault tolerance,The answer is : C: Ensure fault tolerance,the answer is : c: ensure fault tolerance,"['answer', ':', 'c', ':', 'ensure', 'fault', 'tolerance']"
+389,FAULT TOLERANCE is the answer,FAULT TOLERANCE is the answer,fault tolerance is the answer,"['fault', 'tolerance', 'answer']"
+390,Option C: Ensure Fault tolenrance,Option C: Ensure Fault tolenrance,option c: ensure fault tolenrance,"['option', 'c', ':', 'ensure', 'fault', 'tolenrance']"
+391,C. Ensure Fault Tolerance,C. Ensure Fault Tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+392,Answer: ensures  fault tolerance,Answer: ensures  fault tolerance,answer: ensures fault tolerance,"['answer', ':', 'ensure', 'fault', 'tolerance']"
+393,Nice vid,Nice vid,nice vid,"['nice', 'vid']"
+394,C: fault tolerance,C: fault tolerance,c: fault tolerance,"['c', ':', 'fault', 'tolerance']"
+395,C - Ensures fault tolerance.,C - Ensures fault tolerance.,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+396,The answer is C) :),The answer is C) :),the answer is c :,"['answer', 'c', ':']"
+397,ensures fault tolerance,ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+398,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+399,Answer is optional C,Answer is optional C,answer is optional c,"['answer', 'optional', 'c']"
+400,C : fault tolerance,C : fault tolerance,c : fault tolerance,"['c', ':', 'fault', 'tolerance']"
+401,ensures fault tolerance,ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+402,c. Fault tolerance,c. Fault tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+403,c. ensures fault tolerance,c. ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+404,ensures fault tolerance,ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+405,"Well explained 👏. But can you compare it with distributed databases, how it is better than those?","Well explained  clapping_hands . But can you compare it with distributed databases, how it is better than those?",well explained clapping_hands but can you compare it with distributed databases how it is better than those,"['well', 'explain', 'clapping_hand', 'compare', 'distribute', 'database', 'well']"
+406,ensures fault tolerance,ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+407,C) fault tolerance,C) fault tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+408,"I’m late but still I want to answer the question 
+It’s fault tolerance (if one node fails the data from other node would be used)
+
+I have a question? Is the replication factor fixed to 3 or is it a default value?","I’m late but still I want to answer the question 
+It’s fault tolerance (if one node fails the data from other node would be used)
+
+I have a question? Is the replication factor fixed to 3 or is it a default value?",im late but still i want to answer the question its fault tolerance if one node fails the data from other node would be used i have a question is the replication factor fixed to or is it a default value,"['I', 'm', 'late', 'still', 'want', 'answer', 'question', 'fault', 'tolerance', 'one', 'node', 'fail', 'datum', 'node', 'would', 'use', 'question', 'replication', 'factor', 'fix', 'default', 'value']"
+409,I know it is late but my answer for the question is C. :),I know it is late but my answer for the question is C. :),i know it is late but my answer for the question is c :,"['know', 'late', 'answer', 'question', 'c', ':']"
+410,C: Ensure fault tolerance,C: Ensure fault tolerance,c: ensure fault tolerance,"['c', ':', 'ensure', 'fault', 'tolerance']"
+411,C == Fault tolerance,C == Fault tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+412,Option C) fault tolerance,Option C) fault tolerance,option c fault tolerance,"['option', 'c', 'fault', 'tolerance']"
+413,"I have a question, as a file system how hadoop can manage a database file(like mssql or mysql) file? How can it devide an .MDF file to other separeted files to store them on different machines? Because such files, have meta data and overhead and they are not like a basic txt file. Does hadoop have special system to treat each file type differently? Regards.","I have a question, as a file system how hadoop can manage a database file(like mssql or mysql) file? How can it devide an .MDF file to other separeted files to store them on different machines? Because such files, have meta data and overhead and they are not like a basic txt file. Does hadoop have special system to treat each file type differently? Regards.",i have a question as a file system how hadoop can manage a database filelike mssql or mysql file how can it devide an mdf file to other separeted files to store them on different machines because such files have meta data and overhead and they are not like a basic txt file does hadoop have special system to treat each file type differently regards,"['question', 'file', 'system', 'hadoop', 'manage', 'database', 'filelike', 'mssql', 'mysql', 'file', 'devide', 'mdf', 'file', 'separete', 'file', 'store', 'different', 'machine', 'file', 'meta', 'datum', 'overhead', 'like', 'basic', 'txt', 'file', 'hadoop', 'special', 'system', 'treat', 'file', 'type', 'differently', 'regard']"
+414,C) ensures fault tolerance,C) ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+415,C) ensures fault tolerance,C) ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+416,Option C: Ensures Fault Tolerance,Option C: Ensures Fault Tolerance,option c: ensures fault tolerance,"['option', 'c', ':', 'ensure', 'fault', 'tolerance']"
+417,Answer: 3X replication is used for fault tolerance 😁,Answer: 3X replication is used for fault tolerance  beaming_face_with_smiling_eyes ,answer: x replication is used for fault tolerance beaming_face_with_smiling_eyes,"['answer', ':', 'x', 'replication', 'use', 'fault', 'tolerance', 'beaming_face_with_smiling_eye']"
+418,Answer: C) Ensures fault tolerance,Answer: C) Ensures fault tolerance,answer: c ensures fault tolerance,"['answer', ':', 'c', 'ensure', 'fault', 'tolerance']"
+419,It's C) Ensure Fault tolerance,It's C) Ensure Fault tolerance,its c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+420,Answer--> (c) Fault Tolerance,Answer--> (c) Fault Tolerance,answer c fault tolerance,"['answer', 'c', 'fault', 'tolerance']"
+421,C) Ensures fault tolerance,C) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+422,All of them,All of them,all of them,[]
+423,c) Ensures fault tolerence,c) Ensures fault tolerence,c ensures fault tolerence,"['c', 'ensure', 'fault', 'tolerence']"
+424,Option C fault tolerance,Option C fault tolerance,option c fault tolerance,"['option', 'c', 'fault', 'tolerance']"
+425,Ensures Fault Tolerance,Ensures Fault Tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+426,7c's of communication was followed with answers c.,7c's of communication was followed with answers c.,cs of communication was followed with answers c,"['cs', 'communication', 'follow', 'answer', 'c']"
+427,c. ensures fault tolerance,c. ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+428,to ensure Fault Tolarence,to ensure Fault Tolarence,to ensure fault tolarence,"['ensure', 'fault', 'tolarence']"
+429,All options,All options,all options,['option']
+430,c) ensures fault tolerance,c) ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+431,C) Ensures fault tolerance,C) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+432,Ensures Fault Tolerance,Ensures Fault Tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+433,C . ensure fault tolerance,C . ensure fault tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+434,C) Ensures fault tolerance,C) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+435,Option C: Ensure Fault Tolerance,Option C: Ensure Fault Tolerance,option c: ensure fault tolerance,"['option', 'c', ':', 'ensure', 'fault', 'tolerance']"
+436,C is the correct answer,C is the correct answer,c is the correct answer,"['c', 'correct', 'answer']"
+437,Answer C,Answer C,answer c,"['answer', 'c']"
+438,Answer is All,Answer is All,answer is all,['answer']
+439,Option C,Option C,option c,"['option', 'c']"
+440,from where does the hadoop is getting the storage for HDFS??? is it using our computer?? or does it have some cloud storage?? i did not understand..,from where does the hadoop is getting the storage for HDFS??? is it using our computer?? or does it have some cloud storage?? i did not understand..,from where does the hadoop is getting the storage for hdfs is it using our computer or does it have some cloud storage i did not understand,"['hadoop', 'get', 'storage', 'hdfs', 'use', 'computer', 'cloud', 'storage', 'understand']"
+441,C) Ensures fault tolerance,C) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+442,C: ensure fault tolerance,C: ensure fault tolerance,c: ensure fault tolerance,"['c', ':', 'ensure', 'fault', 'tolerance']"
+443,"Its option C, fault tolerance. It was quick an sound.","Its option C, fault tolerance. It was quick an sound.",its option c fault tolerance it was quick an sound,"['option', 'c', 'fault', 'tolerance', 'quick', 'sound']"
+444,Option 3,Option 3,option,['option']
+445,C: ensure fault tolerance,C: ensure fault tolerance,c: ensure fault tolerance,"['c', ':', 'ensure', 'fault', 'tolerance']"
+446,it is fault tolerance,it is fault tolerance,it is fault tolerance,"['fault', 'tolerance']"
+447,ensure fault tolerance,ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+448,Option 3,Option 3,option,['option']
+449,186 slides given by my professor is explained in 6 minutes!!!!!,186 slides given by my professor is explained in 6 minutes!!!!!,slides given by my professor is explained in minutes,"['slide', 'give', 'professor', 'explain', 'minute']"
+450,Answer is C.,Answer is C.,answer is c,"['answer', 'c']"
+451,I think its (C)Ensures fault tolerance...,I think its (C)Ensures fault tolerance...,i think its censures fault tolerance,"['think', 'censure', 'fault', 'tolerance']"
+452,Correct Answer is :- C):,Correct Answer is :- C):,correct answer is : c:,"['correct', 'answer', ':', 'c', ':']"
+453,Answer C fault tolerance,Answer C fault tolerance,answer c fault tolerance,"['answer', 'c', 'fault', 'tolerance']"
+454,the answer is C. fault tolerant,the answer is C. fault tolerant,the answer is c fault tolerant,"['answer', 'c', 'fault', 'tolerant']"
+455,Answer is (C) ENSURES A FAULT TOLERANCE,Answer is (C) ENSURES A FAULT TOLERANCE,answer is c ensures a fault tolerance,"['answer', 'c', 'ensure', 'fault', 'tolerance']"
+456,C) Ensures Fault Tolerance,C) Ensures Fault Tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+457,Option C,Option C,option c,"['option', 'c']"
+458,Answer is C,Answer is C,answer is c,"['answer', 'c']"
+459,Answer is C,Answer is C,answer is c,"['answer', 'c']"
+460,Answer is C,Answer is C,answer is c,"['answer', 'c']"
+461,Option C,Option C,option c,"['option', 'c']"
+462,Answer is C,Answer is C,answer is c,"['answer', 'c']"
+463,Option C,Option C,option c,"['option', 'c']"
+464,Answer C,Answer C,answer c,"['answer', 'c']"
+465,Answer is C,Answer is C,answer is c,"['answer', 'c']"
+466,Answer is C,Answer is C,answer is c,"['answer', 'c']"
+467,Answer for the question : c) Ensures fault tolerance,Answer for the question : c) Ensures fault tolerance,answer for the question : c ensures fault tolerance,"['answer', 'question', ':', 'c', 'ensure', 'fault', 'tolerance']"
+468,Option C,Option C,option c,"['option', 'c']"
+469,Option C,Option C,option c,"['option', 'c']"
+470,C) Fault Tolerance,C) Fault Tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+471,The answer to the question is C,The answer to the question is C,the answer to the question is c,"['answer', 'question', 'c']"
+472,C) Ensures Fault Tolerance,C) Ensures Fault Tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+473,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+474,Answer is c,Answer is c,answer is c,"['answer', 'c']"
+475,quiz ans is option C,quiz ans is option C,quiz ans is option c,"['quiz', 'ans', 'option', 'c']"
+476,Clear. But why did he glance over HDFS without even really explaining how it works? @02:00,Clear. But why did he glance over HDFS without even really explaining how it works? @02:00,clear but why did he glance over hdfs without even really explaining how it works :,"['clear', 'glance', 'hdfs', 'without', 'even', 'really', 'explain', 'work', ':']"
+477,"Hadoop is designed to keep large files, right? But what is the sense to keep files instead of different data format? You have dozens of databases; sql, none-sql. They are faster, easier to work with.","Hadoop is designed to keep large files, right? But what is the sense to keep files instead of different data format? You have dozens of databases; sql, none-sql. They are faster, easier to work with.",hadoop is designed to keep large files right but what is the sense to keep files instead of different data format you have dozens of databases sql nonesql they are faster easier to work with,"['hadoop', 'design', 'keep', 'large', 'file', 'right', 'sense', 'keep', 'file', 'instead', 'different', 'datum', 'format', 'dozen', 'database', 'sql', 'nonesql', 'fast', 'easy', 'work']"
+478,The answer is C :),The answer is C :),the answer is c :,"['answer', 'c', ':']"
+479,C) Ensure Fault Tolerate,C) Ensure Fault Tolerate,c ensure fault tolerate,"['c', 'ensure', 'fault', 'tolerate']"
+480,Ans:Ensure fault tolerance,Ans:Ensure fault tolerance,ans:ensure fault tolerance,"['ans', ':', 'ensure', 'fault', 'tolerance']"
+481,Quiz answer: A Support parallel processing.,Quiz answer: A Support parallel processing.,quiz answer: a support parallel processing,"['quiz', 'answer', ':', 'support', 'parallel', 'processing']"
+482,Answer is c) Ensure Fault Tolerance,Answer is c) Ensure Fault Tolerance,answer is c ensure fault tolerance,"['answer', 'c', 'ensure', 'fault', 'tolerance']"
+483,c) Ensures Fault Tolerance,c) Ensures Fault Tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+484,Answer is C...!👍,Answer is C...! thumbs_up ,answer is c thumbs_up,"['answer', 'c', 'thumbs_up']"
+485,all of the above,all of the above,all of the above,[]
+486,The advantage of 3x replicant is ensure fault tolerance....why bcz if one computer is corrupted our data is still exists remaining 2 computers...that is called duplication.....,The advantage of 3x replicant is ensure fault tolerance....why bcz if one computer is corrupted our data is still exists remaining 2 computers...that is called duplication.....,the advantage of x replicant is ensure fault tolerancewhy bcz if one computer is corrupted our data is still exists remaining computersthat is called duplication,"['advantage', 'x', 'replicant', 'ensure', 'fault', 'tolerancewhy', 'bcz', 'one', 'computer', 'corrupt', 'datum', 'still', 'exist', 'remain', 'computersthat', 'call', 'duplication']"
+487,all of them,all of them,all of them,[]
+488,C - ensures fault tolerance,C - ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+489,C is the answer,C is the answer,c is the answer,"['c', 'answer']"
+490,Answer: C,Answer: C,answer: c,"['answer', ':', 'c']"
+491,Ensures fault tolerance.,Ensures fault tolerance.,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+492,Ans is C,Ans is C,ans is c,"['ans', 'c']"
+493,answer is C,answer is C,answer is c,"['answer', 'c']"
+494,c) Fault tolerance,c) Fault tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+495,Semiconductor pipe path based 1 input output also 1 during colliding different pipes dust in path is haddopp in my understanding. (Dex IOE 2000nepal):running jobs incidents based impact collector in path pc magazine.,Semiconductor pipe path based 1 input output also 1 during colliding different pipes dust in path is haddopp in my understanding. (Dex IOE 2000nepal):running jobs incidents based impact collector in path pc magazine.,semiconductor pipe path based input output also during colliding different pipes dust in path is haddopp in my understanding dex ioe nepal:running jobs incidents based impact collector in path pc magazine,"['semiconductor', 'pipe', 'path', 'base', 'input', 'output', 'also', 'collide', 'different', 'pipe', 'dust', 'path', 'haddopp', 'understand', 'dex', 'ioe', 'nepal', ':', 'run', 'job', 'incident', 'base', 'impact', 'collector', 'path', 'pc', 'magazine']"
+496,the answer is C!,the answer is C!,the answer is c,"['answer', 'c']"
+497,Ensures fault tolerance,Ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+498,C is the answer,C is the answer,c is the answer,"['c', 'answer']"
+499,0:42 how the heck do you cross over things?!,0:42 how the heck do you cross over things?!,: how the heck do you cross over things,"[':', 'heck', 'cross', 'thing']"
+500,Answers is C,Answers is C,answers is c,"['answer', 'c']"
+501,c) Ensures fault  tolerance,c) Ensures fault  tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+502,C. Ensures fault tolerance,C. Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+503,C - Fault Tolerance. Where can i learn more?,C - Fault Tolerance. Where can i learn more?,c fault tolerance where can i learn more,"['c', 'fault', 'tolerance', 'learn']"
+504,c is the answer,c is the answer,c is the answer,"['c', 'answer']"
+505,Ensure fault tolerance,Ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+506,ensures Fault Tolerance,ensures Fault Tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+507,c is the answer,c is the answer,c is the answer,"['c', 'answer']"
+508,The answer to question is : Option C,The answer to question is : Option C,the answer to question is : option c,"['answer', 'question', ':', 'option', 'c']"
+509,The answer is C,The answer is C,the answer is c,"['answer', 'c']"
+510,c) Ensure fault tolerance,c) Ensure fault tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+511,option C,option C,option c,"['option', 'c']"
+512,I think the answer is C,I think the answer is C,i think the answer is c,"['think', 'answer', 'c']"
+513,to ensure fault tolerance.,to ensure fault tolerance.,to ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+514,its C - ensure fault tolerance,its C - ensure fault tolerance,its c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+515,answer C,answer C,answer c,"['answer', 'c']"
+516,"I have a question ⁉️ In case of Replicating the file * 3  :Is  this make storage issue, data redundancy...","I have a question  exclamation_question_mark  In case of Replicating the file * 3  :Is  this make storage issue, data redundancy...",i have a question exclamation_question_mark in case of replicating the file :is this make storage issue data redundancy,"['question', 'exclamation_question_mark', 'case', 'replicating', 'file', ':', 'make', 'storage', 'issue', 'datum', 'redundancy']"
+517,"• Storing
+• Map reduce
+• Clustering","• Storing
+• Map reduce
+• Clustering",storing map reduce clustering,"['store', 'map', 'reduce', 'cluster']"
+518,c) Ensures fault tolerance,c) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+519,C : Ensure Fault Tolerance,C : Ensure Fault Tolerance,c : ensure fault tolerance,"['c', ':', 'ensure', 'fault', 'tolerance']"
+520,"600 Mb is less than 1 Gb. Why would such a low amount of data need to be split up among various nodes? Was there a mistake, or am I missing something? 
+Question 2: Is Hadoop mainly a skill for someone training to be a Data Scientist to learn, or do Data Analyst need to know it also?
+
+Question 3: What's the story behind the funny name?","600 Mb is less than 1 Gb. Why would such a low amount of data need to be split up among various nodes? Was there a mistake, or am I missing something? 
+Question 2: Is Hadoop mainly a skill for someone training to be a Data Scientist to learn, or do Data Analyst need to know it also?
+
+Question 3: What's the story behind the funny name?",mb is less than gb why would such a low amount of data need to be split up among various nodes was there a mistake or am i missing something question : is hadoop mainly a skill for someone training to be a data scientist to learn or do data analyst need to know it also question : whats the story behind the funny name,"['mb', 'less', 'gb', 'would', 'low', 'amount', 'datum', 'need', 'split', 'among', 'various', 'node', 'mistake', 'miss', 'something', 'question', ':', 'hadoop', 'mainly', 'skill', 'someone', 'train', 'datum', 'scientist', 'learn', 'data', 'analyst', 'need', 'know', 'also', 'question', ':', 'what', 's', 'story', 'behind', 'funny', 'name']"
+521,Option c.,Option c.,option c,"['option', 'c']"
+522,Is this by any chance a video about Hadoop?,Is this by any chance a video about Hadoop?,is this by any chance a video about hadoop,"['chance', 'video', 'hadoop']"
+523,Faul tolerant - HDFS,Faul tolerant - HDFS,faul tolerant hdfs,"['faul', 'tolerant', 'hdfs']"
+524,C. Ensures fault tolerance,C. Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+525,"3 components
+1. Storage
+2. MapReduce
+3. YARN (Yet another resource negotiator)","3 components
+1. Storage
+2. MapReduce
+3. YARN (Yet another resource negotiator)",components storage mapreduce yarn yet another resource negotiator,"['component', 'storage', 'mapreduce', 'yarn', 'yet', 'another', 'resource', 'negotiator']"
+526,"I don't quite understand: Wouldn't the replication method to increase fault tolerance also increase the amount of data to be stored? So for example, instead of 128MB of data (Block B) to be stored in a node, I now have 128MB x 2 amount of data to be stored in that node because I also need to store Block B AND the replica of Black A. If this node also needs to store the replica of the other blocks, it might as well be storing 600MB worth of data, something which we were trying to reduce in the first place.","I don't quite understand: Wouldn't the replication method to increase fault tolerance also increase the amount of data to be stored? So for example, instead of 128MB of data (Block B) to be stored in a node, I now have 128MB x 2 amount of data to be stored in that node because I also need to store Block B AND the replica of Black A. If this node also needs to store the replica of the other blocks, it might as well be storing 600MB worth of data, something which we were trying to reduce in the first place.",i dont quite understand: wouldnt the replication method to increase fault tolerance also increase the amount of data to be stored so for example instead of mb of data block b to be stored in a node i now have mb x amount of data to be stored in that node because i also need to store block b and the replica of black a if this node also needs to store the replica of the other blocks it might as well be storing mb worth of data something which we were trying to reduce in the first place,"['do', 'not', 'quite', 'understand', ':', 'would', 'not', 'replication', 'method', 'increase', 'fault', 'tolerance', 'also', 'increase', 'amount', 'datum', 'store', 'example', 'instead', 'mb', 'datum', 'block', 'b', 'store', 'node', 'mb', 'x', 'amount', 'datum', 'store', 'node', 'also', 'need', 'store', 'block', 'b', 'replica', 'black', 'node', 'also', 'need', 'store', 'replica', 'block', 'might', 'well', 'store', 'mb', 'worth', 'datum', 'something', 'try', 'reduce', 'first', 'place']"
+527,"Answer to question
+C) Generate Fault Tolerance","Answer to question
+C) Generate Fault Tolerance",answer to question c generate fault tolerance,"['answer', 'question', 'c', 'generate', 'fault', 'tolerance']"
+528,c)Ensures fault tolerance,c)Ensures fault tolerance,censures fault tolerance,"['censure', 'fault', 'tolerance']"
+529,ensures fault tolerance,ensures fault tolerance,ensures fault tolerance,"['ensure', 'fault', 'tolerance']"
+530,C fault tolerance,C fault tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+531,The answer to the quiz is all 4 answers,The answer to the quiz is all 4 answers,the answer to the quiz is all answers,"['answer', 'quiz', 'answer']"
+532,C. Ensure Fault Tolerence,C. Ensure Fault Tolerence,c ensure fault tolerence,"['c', 'ensure', 'fault', 'tolerence']"
+533,The answer is C.,The answer is C.,the answer is c,"['answer', 'c']"
+534,the answer is C,the answer is C,the answer is c,"['answer', 'c']"
+535,"Apache spark won the game,","Apache spark won the game,",apache spark won the game,"['apache', 'spark', 'game']"
+536,"I want to win pls ❤❤❤
+Best youtuber ever
+Like content
+Been watching u since i was born","I want to win pls  red_heart  red_heart  red_heart 
+Best youtuber ever
+Like content
+Been watching u since i was born",i want to win pls red_heart red_heart red_heart best youtuber ever like content been watching u since i was born,"['want', 'win', 'pls', 'red_heart', 'red_heart', 'red_heart', 'good', 'youtuber', 'ever', 'like', 'content', 'watch', 'u', 'since', 'bear']"
+537,Ans : Ensure fault tolerence,Ans : Ensure fault tolerence,ans : ensure fault tolerence,"['ans', ':', 'ensure', 'fault', 'tolerence']"
+538,answer for the question is C,answer for the question is C,answer for the question is c,"['answer', 'question', 'c']"
+539,option C is correct answer,option C is correct answer,option c is correct answer,"['option', 'c', 'correct', 'answer']"
+540,Answer C,Answer C,answer c,"['answer', 'c']"
+541,option c,option c,option c,"['option', 'c']"
+542,option c,option c,option c,"['option', 'c']"
+543,Thanks for the great video! But I have a question about the reduced map. Wouldn’t the original data be lost after this process? And how could they retrieve the data after this process? Thank you,Thanks for the great video! But I have a question about the reduced map. Wouldn’t the original data be lost after this process? And how could they retrieve the data after this process? Thank you,thanks for the great video but i have a question about the reduced map wouldnt the original data be lost after this process and how could they retrieve the data after this process thank you,"['thank', 'great', 'video', 'question', 'reduce', 'map', 'would', 'not', 'original', 'datum', 'lose', 'process', 'could', 'retrieve', 'data', 'process', 'thank']"
+544,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+545,So basically it's an cloud computing systems. Like azure or aws,So basically it's an cloud computing systems. Like azure or aws,so basically its an cloud computing systems like azure or aws,"['basically', 'cloud', 'computing', 'system', 'like', 'azure', 'aw']"
+546,"Its 
+A,B,D","Its 
+A,B,D",its abd,['abd']
+547,My answer is d,My answer is d,my answer is d,['answer']
+548,Fault tolerant is the answer for the question,Fault tolerant is the answer for the question,fault tolerant is the answer for the question,"['fault', 'tolerant', 'answer', 'question']"
+549,The answer is A.,The answer is A.,the answer is a,['answer']
+550,C fault tolerance,C fault tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+551,The Answer is (C): Ensure Fault Tolerance,The Answer is (C): Ensure Fault Tolerance,the answer is c: ensure fault tolerance,"['answer', 'c', ':', 'ensure', 'fault', 'tolerance']"
+552,Anser is c),Anser is c),anser is c,"['anser', 'c']"
+553,Support parallel processing...,Support parallel processing...,support parallel processing,"['support', 'parallel', 'processing']"
+554,Answer is C option,Answer is C option,answer is c option,"['answer', 'c', 'option']"
+555,C) Ensure Fault Tolerance,C) Ensure Fault Tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+556,Answer C,Answer C,answer c,"['answer', 'c']"
+557,Answer C,Answer C,answer c,"['answer', 'c']"
+558,Option C is the answer,Option C is the answer,option c is the answer,"['option', 'c', 'answer']"
+559,answer is option c,answer is option c,answer is option c,"['answer', 'option', 'c']"
+560,C) Ensure Fault Tolerance,C) Ensure Fault Tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+561,"the response is ""C""","the response is ""C""",the response is c,"['response', 'c']"
+562,Option C,Option C,option c,"['option', 'c']"
+563,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+564,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+565,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+566,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+567,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+568,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+569,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+570,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+571,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+572,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+573,The answer is fault tolarence,The answer is fault tolarence,the answer is fault tolarence,"['answer', 'fault', 'tolarence']"
+574,"The Answer of Quiz is
+ C. Ensure Fault Tolerance","The Answer of Quiz is
+ C. Ensure Fault Tolerance",the answer of quiz is c ensure fault tolerance,"['answer', 'quiz', 'c', 'ensure', 'fault', 'tolerance']"
+575,C.. Fault tolerance,C.. Fault tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+576,Option C,Option C,option c,"['option', 'c']"
+577,Option C,Option C,option c,"['option', 'c']"
+578,Option C,Option C,option c,"['option', 'c']"
+579,Answer is  C,Answer is  C,answer is c,"['answer', 'c']"
+580,Which whiteboard software is used in this video?,Which whiteboard software is used in this video?,which whiteboard software is used in this video,"['whiteboard', 'software', 'use', 'video']"
+581,Answer is C,Answer is C,answer is c,"['answer', 'c']"
+582,Answer is C,Answer is C,answer is c,"['answer', 'c']"
+583,ensure fault tolerance,ensure fault tolerance,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+584,option c,option c,option c,"['option', 'c']"
+585,fault tolerance,fault tolerance,fault tolerance,"['fault', 'tolerance']"
+586,c. Fault Tolerance,c. Fault Tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+587,C option,C option,c option,"['c', 'option']"
+588,answer is C,answer is C,answer is c,"['answer', 'c']"
+589,answer is C,answer is C,answer is c,"['answer', 'c']"
+590,ans-fault tolerance?,ans-fault tolerance?,ansfault tolerance,"['ansfault', 'tolerance']"
+591,the option C is the answer,the option C is the answer,the option c is the answer,"['option', 'c', 'answer']"
+592,Ans: Ensures Fault Tolerance,Ans: Ensures Fault Tolerance,ans: ensures fault tolerance,"['ans', ':', 'ensure', 'fault', 'tolerance']"
+593,cool,cool,cool,['cool']
+594,Ans is C,Ans is C,ans is c,"['ans', 'c']"
+595,And the Answer is C,And the Answer is C,and the answer is c,"['answer', 'c']"
+596,(C) Ensures fault tolerance,(C) Ensures fault tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+597,Wr get all this thing's 😅,Wr get all this thing's  grinning_face_with_sweat ,wr get all this things grinning_face_with_sweat,"['wr', 'get', 'thing', 'grinning_face_with_sweat']"
+598,ans. D,ans. D,ans d,['an']
+599,c) Ensure Fault Tolerance,c) Ensure Fault Tolerance,c ensure fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+600,"Given that it's split across 3 devices, I'm guessing it can do a b & c. Maybe even d, if configured correctly.","Given that it's split across 3 devices, I'm guessing it can do a b & c. Maybe even d, if configured correctly.",given that its split across devices im guessing it can do a b c maybe even d if configured correctly,"['give', 'split', 'across', 'device', 'I', 'm', 'guess', 'b', 'c', 'maybe', 'even', 'configure', 'correctly']"
+601,Option c,Option c,option c,"['option', 'c']"
+602,Option c,Option c,option c,"['option', 'c']"
+603,the answer is C for your question,the answer is C for your question,the answer is c for your question,"['answer', 'c', 'question']"
+604,Ans:Fault tolerance,Ans:Fault tolerance,ans:fault tolerance,"['ans', ':', 'fault', 'tolerance']"
+605,option C,option C,option c,"['option', 'c']"
+606,The Answer is C - Fault Tolerance,The Answer is C - Fault Tolerance,the answer is c fault tolerance,"['answer', 'c', 'fault', 'tolerance']"
+607,Answer is :C,Answer is :C,answer is :c,"['answer', ':', 'c']"
+608,Answer C:- Ensures Fault Tolerance,Answer C:- Ensures Fault Tolerance,answer c: ensures fault tolerance,"['answer', 'c', ':', 'ensure', 'fault', 'tolerance']"
+609,Answer :-- All of the Above?,Answer :-- All of the Above?,answer : all of the above,"['answer', ':']"
+610,C- Ensures Fault Tolerance,C- Ensures Fault Tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+611,Ans: c,Ans: c,ans: c,"['ans', ':', 'c']"
+612,Answer is c :-,Answer is c :-,answer is c :,"['answer', 'c', ':']"
+613,The advantages of 3x replication schema are the four proposed,The advantages of 3x replication schema are the four proposed,the advantages of x replication schema are the four proposed,"['advantage', 'x', 'replication', 'schema', 'four', 'propose']"
+614,answer is C,answer is C,answer is c,"['answer', 'c']"
+615,"A,B,D","A,B,D",abd,['abd']
+616,C. FAULT TOLERANCE,C. FAULT TOLERANCE,c fault tolerance,"['c', 'fault', 'tolerance']"
+617,C. Fault Tolerance,C. Fault Tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+618,I m very late here still answer is C,I m very late here still answer is C,i m very late here still answer is c,"['late', 'still', 'answer', 'c']"
+619,C,C,c,['c']
+620,option c,option c,option c,"['option', 'c']"
+621,Fault tolerance!  What did I win?,Fault tolerance!  What did I win?,fault tolerance what did i win,"['fault', 'tolerance', 'win']"
+622,Answer: Fault Tolerance,Answer: Fault Tolerance,answer: fault tolerance,"['answer', ':', 'fault', 'tolerance']"
+623,c . fault tollerence,c . fault tollerence,c fault tollerence,"['c', 'fault', 'tollerence']"
+624,"Question: Purpose of replicating data in HDFS. 
+Answer: To ensure Fault Tolerance","Question: Purpose of replicating data in HDFS. 
+Answer: To ensure Fault Tolerance",question: purpose of replicating data in hdfs answer: to ensure fault tolerance,"['question', ':', 'purpose', 'replicate', 'datum', 'hdfs', 'answer', ':', 'ensure', 'fault', 'tolerance']"
+625,C,C,c,['c']
+626,C,C,c,['c']
+627,ENSURE FAULT TOLERANCE,ENSURE FAULT TOLERANCE,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+628,the answer is C,the answer is C,the answer is c,"['answer', 'c']"
+629,1.A,1.A,a,[]
+630,"Which of the following statement is not correct about hdfs
+Ans: smaller chunks of data are stored in multiple data nodes in hdfs","Which of the following statement is not correct about hdfs
+Ans: smaller chunks of data are stored in multiple data nodes in hdfs",which of the following statement is not correct about hdfs ans: smaller chunks of data are stored in multiple data nodes in hdfs,"['follow', 'statement', 'correct', 'hdfs', 'ans', ':', 'small', 'chunk', 'datum', 'store', 'multiple', 'datum', 'nodes', 'hdfs']"
+631,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+632,(c) Ensures Fault Tolerance,(c) Ensures Fault Tolerance,c ensures fault tolerance,"['c', 'ensure', 'fault', 'tolerance']"
+633,The answer is c,The answer is c,the answer is c,"['answer', 'c']"
+634,a and c,a and c,a and c,['c']
+635,"But wait, the 600MB would require 600MB x 3 space to make sure we can store it using HDFS. the video suggest we need only 5 nodes, but it's not true!","But wait, the 600MB would require 600MB x 3 space to make sure we can store it using HDFS. the video suggest we need only 5 nodes, but it's not true!",but wait the mb would require mb x space to make sure we can store it using hdfs the video suggest we need only nodes but its not true,"['wait', 'mb', 'would', 'require', 'mb', 'x', 'space', 'make', 'sure', 'store', 'use', 'hdfs', 'video', 'suggest', 'need', 'node', 'true']"
+636,The ans is...Manages cluster resources....,The ans is...Manages cluster resources....,the ans ismanages cluster resources,"['ans', 'ismanage', 'cluster', 'resource']"
+637,fault tolerance,fault tolerance,fault tolerance,"['fault', 'tolerance']"
+638,may be the answer is   c,may be the answer is   c,may be the answer is c,"['may', 'answer', 'c']"
+639,a and c,a and c,a and c,['c']
+640,fault tolerance,fault tolerance,fault tolerance,"['fault', 'tolerance']"
+641,Answer : Ensures Fault Tolerance,Answer : Ensures Fault Tolerance,answer : ensures fault tolerance,"['answer', ':', 'ensure', 'fault', 'tolerance']"
+642,Option C #krinu,Option C #krinu,option c krinu,"['option', 'c', 'krinu']"
+643,How can this be usefull in automobile industry?,How can this be usefull in automobile industry?,how can this be usefull in automobile industry,"['usefull', 'automobile', 'industry']"
+644,C,C,c,['c']
+645,C,C,c,['c']
+646,C,C,c,['c']
+647,why music ??,why music ??,why music,['music']
+648,C,C,c,['c']
+649,C.,C.,c,['c']
+650,C,C,c,['c']
+651,C,C,c,['c']
+652,C,C,c,['c']
+653,C,C,c,['c']
+654,C,C,c,['c']
+655,C,C,c,['c']
+656,C,C,c,['c']
+657,C,C,c,['c']
+658,C,C,c,['c']
+659,C,C,c,['c']
+660,C,C,c,['c']
+661,C,C,c,['c']
+662,C,C,c,['c']
+663,C,C,c,['c']
+664,C,C,c,['c']
+665,C,C,c,['c']
+666,C,C,c,['c']
+667,C,C,c,['c']
+668,C,C,c,['c']
+669,C,C,c,['c']
+670,C,C,c,['c']
+671,C,C,c,['c']
+672,C,C,c,['c']
+673,C,C,c,['c']
+674,C,C,c,['c']
+675,C,C,c,['c']
+676,C,C,c,['c']
+677,C,C,c,['c']
+678,C,C,c,['c']
+679,C,C,c,['c']
+680,C,C,c,['c']
+681,C,C,c,['c']
+682,C,C,c,['c']
+683,C,C,c,['c']
+684,C,C,c,['c']
+685,"Thanks, this is helpful.  However, the hand drawing animation is largely unnecessary and annoying.","Thanks, this is helpful.  However, the hand drawing animation is largely unnecessary and annoying.",thanks this is helpful however the hand drawing animation is largely unnecessary and annoying,"['thank', 'helpful', 'however', 'hand', 'draw', 'animation', 'largely', 'unnecessary', 'annoying']"
+686,B,B,b,['b']
+687,Fault Tolerance,Fault Tolerance,fault tolerance,"['fault', 'tolerance']"
+688,B,B,b,['b']
+689,C,C,c,['c']
+690,Fault tolerance,Fault tolerance,fault tolerance,"['fault', 'tolerance']"
+691,"The answer is 
+
+e) ALL of the above.","The answer is 
+
+e) ALL of the above.",the answer is e all of the above,"['answer', 'e']"
+692,answer {A},answer {A},answer a,['answer']
+693,c- fault Tolerance,c- fault Tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+694,Who else mistook the title as 'Hardpoop'? :3,Who else mistook the title as 'Hardpoop'? :3,who else mistook the title as hardpoop :,"['else', 'mistake', 'title', 'hardpoop', ':']"
+695,C,C,c,['c']
+696,C,C,c,['c']
+697,C,C,c,['c']
+698,👍🏻, thumbs_up_light_skin_tone ,thumbs_up_light_skin_tone,['thumbs_up_light_skin_tone']
+699,"ans to quiz: 
+all the options","ans to quiz: 
+all the options",ans to quiz: all the options,"['ans', 'quiz', ':', 'option']"
+700,c,c,c,['c']
+701,"The answer of your question is Fault Tolerance!, Correct me if i am wrong","The answer of your question is Fault Tolerance!, Correct me if i am wrong",the answer of your question is fault tolerance correct me if i am wrong,"['answer', 'question', 'fault', 'tolerance', 'correct', 'wrong']"
+702,Ensure fault tolerence,Ensure fault tolerence,ensure fault tolerence,"['ensure', 'fault', 'tolerence']"
+703,C - Fault Tolerance,C - Fault Tolerance,c fault tolerance,"['c', 'fault', 'tolerance']"
+704,Tha answer is C,Tha answer is C,tha answer is c,"['tha', 'answer', 'c']"
+705,c,c,c,['c']
+706,my one semester in 6 minute,my one semester in 6 minute,my one semester in minute,"['one', 'semester', 'minute']"
+707,c,c,c,['c']
+708,Answer your question is 3,Answer your question is 3,answer your question is,"['answer', 'question']"
+709,c,c,c,['c']
+710,c,c,c,['c']
+711,c,c,c,['c']
+712,c,c,c,['c']
+713,c,c,c,['c']
+714,c,c,c,['c']
+715,c,c,c,['c']
+716,c,c,c,['c']
+717,c,c,c,['c']
+718,c,c,c,['c']
+719,c,c,c,['c']
+720,c,c,c,['c']
+721,C,C,c,['c']
+722,C,C,c,['c']
+723,Who is this video for? People who want to use hadoop but don't know what Big Data means?,Who is this video for? People who want to use hadoop but don't know what Big Data means?,who is this video for people who want to use hadoop but dont know what big data means,"['video', 'people', 'want', 'use', 'hadoop', 'do', 'not', 'know', 'big', 'datum', 'mean']"
+724,C,C,c,['c']
+725,C,C,c,['c']
+726,C,C,c,['c']
+727,C,C,c,['c']
+728,C,C,c,['c']
+729,C,C,c,['c']
+730,C,C,c,['c']
+731,C,C,c,['c']
+732,C !!!!,C !!!!,c,['c']
+733,Fault Tolerance,Fault Tolerance,fault tolerance,"['fault', 'tolerance']"
+734,"I worked at Cloudera for a decade, they certainly never figured out what Hadoop was 🤡","I worked at Cloudera for a decade, they certainly never figured out what Hadoop was  clown_face ",i worked at cloudera for a decade they certainly never figured out what hadoop was clown_face,"['work', 'cloudera', 'decade', 'certainly', 'never', 'figure', 'hadoop', 'clown_face']"
+735,Fault Tolerance,Fault Tolerance,fault tolerance,"['fault', 'tolerance']"
+736,HADOUKEN.,HADOUKEN.,hadouken,['hadouken']
+737,C,C,c,['c']
+738,C,C,c,['c']
+739,c,c,c,['c']
+740,Manages cluster resources,Manages cluster resources,manages cluster resources,"['manage', 'cluster', 'resource']"
+741,To Ensure Tolerance,To Ensure Tolerance,to ensure tolerance,"['ensure', 'tolerance']"
+742,C),C),c,['c']
+743,ENSURE FAULT TOLERANCE ..,ENSURE FAULT TOLERANCE ..,ensure fault tolerance,"['ensure', 'fault', 'tolerance']"
+744,a,a,a,[]
+745,Faster data analysis,Faster data analysis,faster data analysis,"['fast', 'datum', 'analysis']"
+746,C,C,c,['c']
+747,C,C,c,['c']
+748,C,C,c,['c']
+749,C fault tolerant,C fault tolerant,c fault tolerant,"['c', 'fault', 'tolerant']"
+750,C,C,c,['c']
+751,FAULT TOLLERANCE,FAULT TOLLERANCE,fault tollerance,"['fault', 'tollerance']"
+752,C,C,c,['c']
+753,c,c,c,['c']
+754,C,C,c,['c']
+755,all 4 options  are advantages of HDFS,all 4 options  are advantages of HDFS,all options are advantages of hdfs,"['option', 'advantage', 'hdfs']"
+756,c,c,c,['c']
+757,c,c,c,['c']
+758,Why !! Arent all the answers true,Why !! Arent all the answers true,why arent all the answers true,"['be', 'not', 'answer', 'true']"
+759,"The answer is ‘C’ 
+I know I am late lol","The answer is ‘C’ 
+I know I am late lol",the answer is c i know i am late lol,"['answer', 'c', 'know', 'late', 'lol']"
+760,c,c,c,['c']
+761,c,c,c,['c']
+762,i thought hadoop is dead,i thought hadoop is dead,i thought hadoop is dead,"['think', 'hadoop', 'dead']"
+763,"a,c,d","a,c,d",acd,['acd']
+764,"If X is made up of Y and Z, you DO NOT say ""X comprises Y and Z."" You say, ""X is comprised of Y and Z."" Screw-ups like this is how I can't tell your content is primarily marketing babble.","If X is made up of Y and Z, you DO NOT say ""X comprises Y and Z."" You say, ""X is comprised of Y and Z."" Screw-ups like this is how I can't tell your content is primarily marketing babble.",if x is made up of y and z you do not say x comprises y and z you say x is comprised of y and z screwups like this is how i cant tell your content is primarily marketing babble,"['x', 'make', 'z', 'say', 'x', 'comprise', 'z', 'say', 'x', 'comprise', 'z', 'screwup', 'like', 'can', 'not', 'tell', 'content', 'primarily', 'market', 'babble']"
+765,Fault tolerent,Fault tolerent,fault tolerent,"['fault', 'tolerent']"
+766,fault tolerant,fault tolerant,fault tolerant,"['fault', 'tolerant']"
+767,fault tolerant,fault tolerant,fault tolerant,"['fault', 'tolerant']"
+768,B faster data analysis,B faster data analysis,b faster data analysis,"['b', 'fast', 'datum', 'analysis']"
+769,日本語でください,日本語でください,,[]
+770,C lol,C lol,c lol,"['c', 'lol']"
+771,Fault tolerant,Fault tolerant,fault tolerant,"['fault', 'tolerant']"
+772,dead,dead,dead,['dead']
+773,"lots of words ... very litle sense
+Video on blockchain was far better","lots of words ... very litle sense
+Video on blockchain was far better",lots of words very litle sense video on blockchain was far better,"['lot', 'word', 'litle', 'sense', 'video', 'blockchain', 'far', 'well']"
