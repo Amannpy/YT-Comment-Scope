@@ -19,6 +19,8 @@ YT-Comment-Scope is a YouTube comments analysis dashboard that provides in-depth
   - **Sentiment Distribution (VADER):**
 
   ![Sentiment Distribution VADER](./data/processed/visualizations/sentiment_distribution_vader.png)
+  ![Visualization](https://raw.githubusercontent.com/Amannpy/YT-Comment-Scope/main/data/visualizations/your-image.png)
+
 
 - **Sentiment Distribution (TextBlob):**
 
